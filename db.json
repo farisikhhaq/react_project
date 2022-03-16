@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nim":1941720062,
+      "nama": "Faris Ikhlasul Haq",
+      "alamat": "Perumahan Griya Permata Alam Blok C-16",
+      "no_hp": "082257744131",
+      "jobdesk":"FrontEnd - BackEnd"
+    },
+    {
+      "id": 2,
+      "nim":1941720186,
+      "nama": "Hisyam Haryo Mahdyan",
+      "alamat": "Perumahan Pondok Kopi Estate 1 No.4",
+      "no_hp": "082115593609",
+      "jobdesk":"BackEnd - SPA"
+    },
+    {
+      "id": 3,
+      "nim":1941720039,
+      "nama": "Irfan Thalib Alfarid",
+      "alamat": "Jalan Puring No 11",
+      "no_hp": "0888018646073",
+      "jobdesk":"BackEnd(RestApi)"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
