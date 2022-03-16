@@ -1,0 +1,17 @@
+table, th, td{
+    border: 1px solid black;
+}
+th{
+    width: 200px ;
+    padding: 10px;
+}
+td{
+    width: fit-content;
+    padding: 10px;
+}
+table{
+    margin: 20px;
+}
+h2{
+    margin: 20px;
+}
