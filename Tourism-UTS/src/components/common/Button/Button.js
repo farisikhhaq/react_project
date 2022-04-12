@@ -13,4 +13,4 @@ Button.propTypes = {
   variant: PropTypes.string,
 };
 
-export default Button; 
+export default Button;
