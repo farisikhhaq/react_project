@@ -9,7 +9,7 @@ const select = {
   
   
 const mockProps = {
-  phoneNumber: '678.243.8455',
+  phoneNumber: '(+62)88801846073)',
 };
 
 
@@ -44,9 +44,9 @@ describe('Component PhoneNumber with mocked Date', () => {
   };
   
   describe('Component PhoneNumber with mocked Date', () => {
-    checkConcatDetailsAtTime('11:57:58', 'Amanda, 678.243.8455');
-    checkConcatDetailsAtTime('13:59:59', 'Tobias, 278.443.6443');
-    checkConcatDetailsAtTime('17:00:00', 'Helena, 167.280.3970');
+    checkConcatDetailsAtTime('11:57:58', 'Irfan, (+62)88801846073)');
+    checkConcatDetailsAtTime('13:59:59', 'Hisyam, (+62)8123454321');
+    checkConcatDetailsAtTime('17:00:00', 'Faris, (+62)85975462312');
     checkConcatDetailsAtTime('23:00:00', 'The office opens at 8:00 UTC');
   });
 });

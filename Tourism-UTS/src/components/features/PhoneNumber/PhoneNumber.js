@@ -28,11 +28,11 @@ class PhoneNumber extends React.Component {
     };
 
     if(currentHour >= shifts.amanda.start && currentHour < shifts.amanda.end) {
-      return 'Amanda, 678.243.8455';
+      return 'Irfan, (+62)88801846073)';
     } else if(currentHour >= shifts.tobias.start && currentHour < shifts.tobias.end) {
-      return 'Tobias, 278.443.6443';
+      return 'Hisyam, (+62)8123454321';
     } else if (currentHour >= shifts.helena.start && currentHour < shifts.helena.end) {
-      return 'Helena, 167.280.3970';
+      return 'Faris, (+62)85975462312';
     } else {
       return 'The office opens at 8:00 UTC';
     }
