@@ -15,15 +15,15 @@ class Info extends React.Component {
             <Col md={12} lg={6}>
               <PageTitle text='Contact us' />
               <p className={styles.intro}>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium elementum lectus, eu laoreet sapien tristique sed. Aliquam dapibus pharetra dictum. Nunc condimentum sodales nisl eget cursus. Cras est lacus, congue quis purus at, consectetur euismod metus. Curabitur ut lobortis arcu. Nunc faucibus ultrices eros, id efficitur arcu volutpat vitae. Sed at bibendum mauris, id facilisis quam.
+                Agen travel ini merupakan salah satu upaya untuk mengenalkan dan mempopulerkan tempat tempat wisata yang ada di tanah air kita indonesia..
               </p>
             </Col>
             <Col md={12} lg={4} lgOffset={2}>
               <List variant='light'>
-                <ListItem title='Support Agent: Linda Blair' icon='headset' />
-                <ListItem title='678.243.8455' icon='phone' />
-                <ListItem title='support@example.com' icon='envelope' />
-                <ListItem title='1591 Stanton Road, Boston, MA 02127' icon='map-marker-alt' />
+                <ListItem title='Support Agent: Irfan Thalib' icon='headset' />
+                <ListItem title='(+62)88801846073' icon='phone' />
+                <ListItem title='alfalib01@gmail.com' icon='envelope' />
+                <ListItem title='Jl.Puring No.11, Malang, Jawa Timur 65141' icon='map-marker-alt' />
               </List>
             </Col>
           </Row>
