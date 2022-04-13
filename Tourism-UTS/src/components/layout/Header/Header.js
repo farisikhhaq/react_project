@@ -11,20 +11,20 @@ class Header extends React.Component {
       <header className={styles.component}>
         <Grid>
           <Row between="md" middle="xs">
-            <Col md={3} lg={2}>
+            <Col md={3} lg={3}>
               <Link to='/'>
                 <div className={styles.logo}>
                   <Icon name='compass' />
-                  <span className={styles.name}>Travel Agency</span>
+                  <span className={styles.name}>Tourism indonesia</span>
                 </div>
               </Link>
             </Col>
             <Col md={6}>
               <nav>
-                <NavLink to='/trips' activeClassName='active'>Trips</NavLink>
-                <NavLink to='/countries' activeClassName='active'>Countries</NavLink>
-                <NavLink to='/regions' activeClassName='active'>Regions</NavLink>
-                <NavLink to='/info' activeClassName='active'>Contact</NavLink>
+                <NavLink to='/trips' activeClassName='active'>Wisata</NavLink>
+                <NavLink to='/countries' activeClassName='active'>Kota</NavLink>
+                <NavLink to='/regions' activeClassName='active'>Provinsi</NavLink>
+                <NavLink to='/info' activeClassName='active'>Kontak</NavLink>
               </nav>
             </Col>
             <Col md={3} lg={2}>

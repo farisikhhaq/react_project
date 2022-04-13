@@ -28,13 +28,13 @@ class PhoneNumber extends React.Component {
     };
 
     if(currentHour >= shifts.amanda.start && currentHour < shifts.amanda.end) {
-      return 'Amanda, 678.243.8455';
+      return 'Faris, 62896.5374.5172';
     } else if(currentHour >= shifts.tobias.start && currentHour < shifts.tobias.end) {
-      return 'Tobias, 278.443.6443';
+      return 'Tobias, 6281.1559.3609';
     } else if (currentHour >= shifts.helena.start && currentHour < shifts.helena.end) {
-      return 'Helena, 167.280.3970';
+      return 'Helena, 62888.0184.6073';
     } else {
-      return 'The office opens at 8:00 UTC';
+      return 'Jam Pelayanan Mulai 09.00 - 22.00 WIB';
     }
   }
   
