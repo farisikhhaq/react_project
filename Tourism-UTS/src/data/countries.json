@@ -32,8 +32,8 @@
     "alpha2Code": "AF",
     "alpha3Code": "AFG",
     "capital": "Kabul",
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 27657145,
     "timezones": [
       "UTC+04:30"
@@ -68,8 +68,8 @@
     "alpha2Code": "AX",
     "alpha3Code": "ALA",
     "capital": "Mariehamn",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 28875,
     "timezones": [
       "UTC+02:00"
@@ -97,8 +97,8 @@
     "alpha2Code": "AL",
     "alpha3Code": "ALB",
     "capital": "Tirana",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 2886026,
     "timezones": [
       "UTC+01:00"
@@ -131,8 +131,8 @@
     "alpha2Code": "DZ",
     "alpha3Code": "DZA",
     "capital": "Algiers",
-    "region": "Africa",
-    "subregion": "Northern Africa",
+    "region": "Jawa",
+    "subregion": "Tengah",
     "population": 40400000,
     "timezones": [
       "UTC+01:00"
@@ -174,8 +174,8 @@
     "alpha2Code": "AS",
     "alpha3Code": "ASM",
     "capital": "Pago Pago",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 57100,
     "timezones": [
       "UTC-11:00"
@@ -203,8 +203,8 @@
     "alpha2Code": "AD",
     "alpha3Code": "AND",
     "capital": "Andorra la Vella",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 78014,
     "timezones": [
       "UTC+01:00"
@@ -235,8 +235,8 @@
     "alpha2Code": "AO",
     "alpha3Code": "AGO",
     "capital": "Luanda",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 25868000,
     "timezones": [
       "UTC+01:00"
@@ -269,7 +269,7 @@
     "alpha2Code": "AI",
     "alpha3Code": "AIA",
     "capital": "The Valley",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 13452,
     "timezones": [
@@ -345,7 +345,7 @@
     "alpha2Code": "AG",
     "alpha3Code": "ATG",
     "capital": "Saint John's",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 86295,
     "timezones": [
@@ -380,8 +380,8 @@
     "alpha2Code": "AR",
     "alpha3Code": "ARG",
     "capital": "Buenos Aires",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 43590400,
     "timezones": [
       "UTC-03:00"
@@ -421,8 +421,8 @@
     "alpha2Code": "AM",
     "alpha3Code": "ARM",
     "capital": "Yerevan",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 2994400,
     "timezones": [
       "UTC+04:00"
@@ -461,7 +461,7 @@
     "alpha2Code": "AW",
     "alpha3Code": "ABW",
     "capital": "Oranjestad",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 107394,
     "timezones": [
@@ -490,7 +490,7 @@
     "alpha2Code": "AU",
     "alpha3Code": "AUS",
     "capital": "Canberra",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Australia and New Zealand",
     "population": 24117360,
     "timezones": [
@@ -526,8 +526,8 @@
     "alpha2Code": "AT",
     "alpha3Code": "AUT",
     "capital": "Vienna",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Bali",
+    "subregion": "Western Bali",
     "population": 8725931,
     "timezones": [
       "UTC+01:00"
@@ -564,8 +564,8 @@
     "alpha2Code": "AZ",
     "alpha3Code": "AZE",
     "capital": "Baku",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 9730500,
     "timezones": [
       "UTC+04:00"
@@ -599,7 +599,7 @@
     "alpha2Code": "BS",
     "alpha3Code": "BHS",
     "capital": "Nassau",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 378040,
     "timezones": [
@@ -628,8 +628,8 @@
     "alpha2Code": "BH",
     "alpha3Code": "BHR",
     "capital": "Manama",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 1404900,
     "timezones": [
       "UTC+03:00"
@@ -657,8 +657,8 @@
     "alpha2Code": "BD",
     "alpha3Code": "BGD",
     "capital": "Dhaka",
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 161006790,
     "timezones": [
       "UTC+06:00"
@@ -689,7 +689,7 @@
     "alpha2Code": "BB",
     "alpha3Code": "BRB",
     "capital": "Bridgetown",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 285000,
     "timezones": [
@@ -729,8 +729,8 @@
     "alpha2Code": "BY",
     "alpha3Code": "BLR",
     "capital": "Minsk",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 9498700,
     "timezones": [
       "UTC+03:00"
@@ -776,8 +776,8 @@
     "alpha2Code": "BE",
     "alpha3Code": "BEL",
     "capital": "Brussels",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Bali",
+    "subregion": "Western Bali",
     "population": 11319511,
     "timezones": [
       "UTC+01:00"
@@ -816,7 +816,7 @@
     "alpha2Code": "BZ",
     "alpha3Code": "BLZ",
     "capital": "Belmopan",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Central America",
     "population": 370300,
     "timezones": [
@@ -831,7 +831,7 @@
     "currencies": [
       {
         "code": "XOF",
-        "name": "West African CFA franc",
+        "name": "takkdee",
         "symbol": "Fr"
       }
     ],
@@ -848,8 +848,8 @@
     "alpha2Code": "BJ",
     "alpha3Code": "BEN",
     "capital": "Porto-Novo",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 10653654,
     "timezones": [
       "UTC+01:00"
@@ -882,8 +882,8 @@
     "alpha2Code": "BM",
     "alpha3Code": "BMU",
     "capital": "Hamilton",
-    "region": "Americas",
-    "subregion": "Northern America",
+    "region": "Kalimantan",
+    "subregion": "Selatan",
     "population": 61954,
     "timezones": [
       "UTC-04:00"
@@ -916,8 +916,8 @@
     "alpha2Code": "BT",
     "alpha3Code": "BTN",
     "capital": "Thimphu",
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 775620,
     "timezones": [
       "UTC+06:00"
@@ -960,8 +960,8 @@
     "alpha2Code": "BO",
     "alpha3Code": "BOL",
     "capital": "Sucre",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 10985059,
     "timezones": [
       "UTC-04:00"
@@ -995,7 +995,7 @@
     "alpha2Code": "BQ",
     "alpha3Code": "BES",
     "capital": "Kralendijk",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 17408,
     "timezones": [
@@ -1036,8 +1036,8 @@
     "alpha2Code": "BA",
     "alpha3Code": "BIH",
     "capital": "Sarajevo",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 3531159,
     "timezones": [
       "UTC+01:00"
@@ -1075,8 +1075,8 @@
     "alpha2Code": "BW",
     "alpha3Code": "BWA",
     "capital": "Gaborone",
-    "region": "Africa",
-    "subregion": "Southern Africa",
+    "region": "Jawa",
+    "subregion": "selatan affrica",
     "population": 2141206,
     "timezones": [
       "UTC+02:00"
@@ -1150,8 +1150,8 @@
     "alpha2Code": "BR",
     "alpha3Code": "BRA",
     "capital": "Brasília",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 206135893,
     "timezones": [
       "UTC-05:00",
@@ -1193,8 +1193,8 @@
     "alpha2Code": "IO",
     "alpha3Code": "IOT",
     "capital": "Diego Garcia",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 3000,
     "timezones": [
       "UTC+06:00"
@@ -1222,8 +1222,8 @@
     "alpha2Code": "UM",
     "alpha3Code": "UMI",
     "capital": "",
-    "region": "Americas",
-    "subregion": "Northern America",
+    "region": "Kalimantan",
+    "subregion": "Selatan",
     "population": 300,
     "timezones": [
       "UTC-11:00",
@@ -1257,7 +1257,7 @@
     "alpha2Code": "VG",
     "alpha3Code": "VGB",
     "capital": "Road Town",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 28514,
     "timezones": [
@@ -1286,7 +1286,7 @@
     "alpha2Code": "VI",
     "alpha3Code": "VIR",
     "capital": "Charlotte Amalie",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 114743,
     "timezones": [
@@ -1320,8 +1320,8 @@
     "alpha2Code": "BN",
     "alpha3Code": "BRN",
     "capital": "Bandar Seri Begawan",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 411900,
     "timezones": [
       "UTC+08:00"
@@ -1351,8 +1351,8 @@
     "alpha2Code": "BG",
     "alpha3Code": "BGR",
     "capital": "Sofia",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 7153784,
     "timezones": [
       "UTC+02:00"
@@ -1369,7 +1369,7 @@
     "currencies": [
       {
         "code": "XOF",
-        "name": "West African CFA franc",
+        "name": "takkdee",
         "symbol": "Fr"
       }
     ],
@@ -1392,8 +1392,8 @@
     "alpha2Code": "BF",
     "alpha3Code": "BFA",
     "capital": "Ouagadougou",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 19034397,
     "timezones": [
       "UTC"
@@ -1434,8 +1434,8 @@
     "alpha2Code": "BI",
     "alpha3Code": "BDI",
     "capital": "Bujumbura",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 10114505,
     "timezones": [
       "UTC+02:00"
@@ -1472,8 +1472,8 @@
     "alpha2Code": "KH",
     "alpha3Code": "KHM",
     "capital": "Phnom Penh",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 15626444,
     "timezones": [
       "UTC+07:00"
@@ -1488,7 +1488,7 @@
     "currencies": [
       {
         "code": "XAF",
-        "name": "Central African CFA franc",
+        "name": "ddapalu",
         "symbol": "Fr"
       }
     ],
@@ -1511,8 +1511,8 @@
     "alpha2Code": "CM",
     "alpha3Code": "CMR",
     "capital": "Yaoundé",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 22709892,
     "timezones": [
       "UTC+01:00"
@@ -1553,8 +1553,8 @@
     "alpha2Code": "CA",
     "alpha3Code": "CAN",
     "capital": "Ottawa",
-    "region": "Americas",
-    "subregion": "Northern America",
+    "region": "Kalimantan",
+    "subregion": "Selatan",
     "population": 36155487,
     "timezones": [
       "UTC-08:00",
@@ -1589,8 +1589,8 @@
     "alpha2Code": "CV",
     "alpha3Code": "CPV",
     "capital": "Praia",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 531239,
     "timezones": [
       "UTC-01:00"
@@ -1618,7 +1618,7 @@
     "alpha2Code": "KY",
     "alpha3Code": "CYM",
     "capital": "George Town",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 58238,
     "timezones": [
@@ -1630,7 +1630,7 @@
     "currencies": [
       {
         "code": "XAF",
-        "name": "Central African CFA franc",
+        "name": "ddapalu",
         "symbol": "Fr"
       }
     ],
@@ -1649,12 +1649,12 @@
       }
     ],
     "flag": "https://restcountries.eu/data/caf.svg",
-    "name": "Central African Republic",
+    "name": "Central n Republic",
     "alpha2Code": "CF",
     "alpha3Code": "CAF",
     "capital": "Bangui",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 4998000,
     "timezones": [
       "UTC+01:00"
@@ -1672,7 +1672,7 @@
     "currencies": [
       {
         "code": "XAF",
-        "name": "Central African CFA franc",
+        "name": "ddapalu",
         "symbol": "Fr"
       }
     ],
@@ -1695,8 +1695,8 @@
     "alpha2Code": "TD",
     "alpha3Code": "TCD",
     "capital": "N'Djamena",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 14497000,
     "timezones": [
       "UTC+01:00"
@@ -1731,8 +1731,8 @@
     "alpha2Code": "CL",
     "alpha3Code": "CHL",
     "capital": "Santiago",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 18191900,
     "timezones": [
       "UTC-06:00",
@@ -1765,8 +1765,8 @@
     "alpha2Code": "CN",
     "alpha3Code": "CHN",
     "capital": "Beijing",
-    "region": "Asia",
-    "subregion": "Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 1377422166,
     "timezones": [
       "UTC+08:00"
@@ -1810,7 +1810,7 @@
     "alpha2Code": "CX",
     "alpha3Code": "CXR",
     "capital": "Flying Fish Cove",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Australia and New Zealand",
     "population": 2072,
     "timezones": [
@@ -1839,7 +1839,7 @@
     "alpha2Code": "CC",
     "alpha3Code": "CCK",
     "capital": "West Island",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Australia and New Zealand",
     "population": 550,
     "timezones": [
@@ -1868,8 +1868,8 @@
     "alpha2Code": "CO",
     "alpha3Code": "COL",
     "capital": "Bogotá",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 48759958,
     "timezones": [
       "UTC-05:00"
@@ -1909,8 +1909,8 @@
     "alpha2Code": "KM",
     "alpha3Code": "COM",
     "capital": "Moroni",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 806153,
     "timezones": [
       "UTC+03:00"
@@ -1921,7 +1921,7 @@
     "currencies": [
       {
         "code": "XAF",
-        "name": "Central African CFA franc",
+        "name": "ddapalu",
         "symbol": "Fr"
       }
     ],
@@ -1944,8 +1944,8 @@
     "alpha2Code": "CG",
     "alpha3Code": "COG",
     "capital": "Brazzaville",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 4741000,
     "timezones": [
       "UTC+01:00"
@@ -2003,8 +2003,8 @@
     "alpha2Code": "CD",
     "alpha3Code": "COD",
     "capital": "Kinshasa",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 85026000,
     "timezones": [
       "UTC+01:00",
@@ -2048,8 +2048,8 @@
     "alpha2Code": "CK",
     "alpha3Code": "COK",
     "capital": "Avarua",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 18100,
     "timezones": [
       "UTC-10:00"
@@ -2077,7 +2077,7 @@
     "alpha2Code": "CR",
     "alpha3Code": "CRI",
     "capital": "San José",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Central America",
     "population": 4890379,
     "timezones": [
@@ -2109,8 +2109,8 @@
     "alpha2Code": "HR",
     "alpha3Code": "HRV",
     "capital": "Zagreb",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 4190669,
     "timezones": [
       "UTC+01:00"
@@ -2149,7 +2149,7 @@
     "alpha2Code": "CU",
     "alpha3Code": "CUB",
     "capital": "Havana",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 11239004,
     "timezones": [
@@ -2190,7 +2190,7 @@
     "alpha2Code": "CW",
     "alpha3Code": "CUW",
     "capital": "Willemstad",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 154843,
     "timezones": [
@@ -2231,8 +2231,8 @@
     "alpha2Code": "CY",
     "alpha3Code": "CYP",
     "capital": "Nicosia",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 847000,
     "timezones": [
       "UTC+02:00"
@@ -2268,8 +2268,8 @@
     "alpha2Code": "CZ",
     "alpha3Code": "CZE",
     "capital": "Prague",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 10558524,
     "timezones": [
       "UTC+01:00"
@@ -2302,8 +2302,8 @@
     "alpha2Code": "DK",
     "alpha3Code": "DNK",
     "capital": "Copenhagen",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 5717014,
     "timezones": [
       "UTC-04:00",
@@ -2343,8 +2343,8 @@
     "alpha2Code": "DJ",
     "alpha3Code": "DJI",
     "capital": "Djibouti",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 900000,
     "timezones": [
       "UTC+03:00"
@@ -2376,7 +2376,7 @@
     "alpha2Code": "DM",
     "alpha3Code": "DMA",
     "capital": "Roseau",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 71293,
     "timezones": [
@@ -2405,7 +2405,7 @@
     "alpha2Code": "DO",
     "alpha3Code": "DOM",
     "capital": "Santo Domingo",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 10075045,
     "timezones": [
@@ -2436,8 +2436,8 @@
     "alpha2Code": "EC",
     "alpha3Code": "ECU",
     "capital": "Quito",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 16545799,
     "timezones": [
       "UTC-06:00",
@@ -2469,8 +2469,8 @@
     "alpha2Code": "EG",
     "alpha3Code": "EGY",
     "capital": "Cairo",
-    "region": "Africa",
-    "subregion": "Northern Africa",
+    "region": "Jawa",
+    "subregion": "Tengah",
     "population": 91290000,
     "timezones": [
       "UTC+02:00"
@@ -2502,7 +2502,7 @@
     "alpha2Code": "SV",
     "alpha3Code": "SLV",
     "capital": "San Salvador",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Central America",
     "population": 6520675,
     "timezones": [
@@ -2517,7 +2517,7 @@
     "currencies": [
       {
         "code": "XAF",
-        "name": "Central African CFA franc",
+        "name": "ddapalu",
         "symbol": "Fr"
       }
     ],
@@ -2540,8 +2540,8 @@
     "alpha2Code": "GQ",
     "alpha3Code": "GNQ",
     "capital": "Malabo",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 1222442,
     "timezones": [
       "UTC+01:00"
@@ -2584,8 +2584,8 @@
     "alpha2Code": "ER",
     "alpha3Code": "ERI",
     "capital": "Asmara",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 5352000,
     "timezones": [
       "UTC+03:00"
@@ -2617,8 +2617,8 @@
     "alpha2Code": "EE",
     "alpha3Code": "EST",
     "capital": "Tallinn",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 1315944,
     "timezones": [
       "UTC+02:00"
@@ -2649,8 +2649,8 @@
     "alpha2Code": "ET",
     "alpha3Code": "ETH",
     "capital": "Addis Ababa",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 92206005,
     "timezones": [
       "UTC+03:00"
@@ -2685,8 +2685,8 @@
     "alpha2Code": "FK",
     "alpha3Code": "FLK",
     "capital": "Stanley",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 2563,
     "timezones": [
       "UTC-04:00"
@@ -2719,8 +2719,8 @@
     "alpha2Code": "FO",
     "alpha3Code": "FRO",
     "capital": "Tórshavn",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 49376,
     "timezones": [
       "UTC+00:00"
@@ -2766,8 +2766,8 @@
     "alpha2Code": "FJ",
     "alpha3Code": "FJI",
     "capital": "Suva",
-    "region": "Oceania",
-    "subregion": "Melanesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTT",
     "population": 867000,
     "timezones": [
       "UTC+12:00"
@@ -2801,8 +2801,8 @@
     "alpha2Code": "FI",
     "alpha3Code": "FIN",
     "capital": "Helsinki",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 5491817,
     "timezones": [
       "UTC+02:00"
@@ -2834,8 +2834,8 @@
     "alpha2Code": "FR",
     "alpha3Code": "FRA",
     "capital": "Paris",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Bali",
+    "subregion": "Western Bali",
     "population": 66710000,
     "timezones": [
       "UTC-10:00",
@@ -2883,8 +2883,8 @@
     "alpha2Code": "GF",
     "alpha3Code": "GUF",
     "capital": "Cayenne",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 254541,
     "timezones": [
       "UTC-03:00"
@@ -2911,12 +2911,12 @@
       }
     ],
     "flag": "https://restcountries.eu/data/pyf.svg",
-    "name": "French Polynesia",
+    "name": "French NTB",
     "alpha2Code": "PF",
     "alpha3Code": "PYF",
     "capital": "Papeetē",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 271800,
     "timezones": [
       "UTC-10:00",
@@ -2946,8 +2946,8 @@
     "alpha2Code": "TF",
     "alpha3Code": "ATF",
     "capital": "Port-aux-Français",
-    "region": "Africa",
-    "subregion": "Southern Africa",
+    "region": "Jawa",
+    "subregion": "selatan affrica",
     "population": 140,
     "timezones": [
       "UTC+05:00"
@@ -2958,7 +2958,7 @@
     "currencies": [
       {
         "code": "XAF",
-        "name": "Central African CFA franc",
+        "name": "ddapalu",
         "symbol": "Fr"
       }
     ],
@@ -2975,8 +2975,8 @@
     "alpha2Code": "GA",
     "alpha3Code": "GAB",
     "capital": "Libreville",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 1802278,
     "timezones": [
       "UTC+01:00"
@@ -3008,8 +3008,8 @@
     "alpha2Code": "GM",
     "alpha3Code": "GMB",
     "capital": "Banjul",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 1882450,
     "timezones": [
       "UTC+00:00"
@@ -3039,8 +3039,8 @@
     "alpha2Code": "GE",
     "alpha3Code": "GEO",
     "capital": "Tbilisi",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 3720400,
     "timezones": [
       "UTC-05:00"
@@ -3073,8 +3073,8 @@
     "alpha2Code": "DE",
     "alpha3Code": "DEU",
     "capital": "Berlin",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Bali",
+    "subregion": "Western Bali",
     "population": 81770900,
     "timezones": [
       "UTC+01:00"
@@ -3112,8 +3112,8 @@
     "alpha2Code": "GH",
     "alpha3Code": "GHA",
     "capital": "Accra",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 27670174,
     "timezones": [
       "UTC"
@@ -3145,8 +3145,8 @@
     "alpha2Code": "GI",
     "alpha3Code": "GIB",
     "capital": "Gibraltar",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 33140,
     "timezones": [
       "UTC+01:00"
@@ -3176,8 +3176,8 @@
     "alpha2Code": "GR",
     "alpha3Code": "GRC",
     "capital": "Athens",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 10858018,
     "timezones": [
       "UTC+02:00"
@@ -3210,8 +3210,8 @@
     "alpha2Code": "GL",
     "alpha3Code": "GRL",
     "capital": "Nuuk",
-    "region": "Americas",
-    "subregion": "Northern America",
+    "region": "Kalimantan",
+    "subregion": "Selatan",
     "population": 55847,
     "timezones": [
       "UTC-04:00",
@@ -3242,7 +3242,7 @@
     "alpha2Code": "GD",
     "alpha3Code": "GRD",
     "capital": "St. George's",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 103328,
     "timezones": [
@@ -3271,7 +3271,7 @@
     "alpha2Code": "GP",
     "alpha3Code": "GLP",
     "capital": "Basse-Terre",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 400132,
     "timezones": [
@@ -3312,7 +3312,7 @@
     "alpha2Code": "GU",
     "alpha3Code": "GUM",
     "capital": "Hagåtña",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Micronesia",
     "population": 184200,
     "timezones": [
@@ -3341,7 +3341,7 @@
     "alpha2Code": "GT",
     "alpha3Code": "GTM",
     "capital": "Guatemala City",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Central America",
     "population": 16176133,
     "timezones": [
@@ -3386,8 +3386,8 @@
     "alpha2Code": "GG",
     "alpha3Code": "GGY",
     "capital": "St. Peter Port",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 62999,
     "timezones": [
       "UTC+00:00"
@@ -3421,8 +3421,8 @@
     "alpha2Code": "GN",
     "alpha3Code": "GIN",
     "capital": "Conakry",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 12947000,
     "timezones": [
       "UTC"
@@ -3440,7 +3440,7 @@
     "currencies": [
       {
         "code": "XOF",
-        "name": "West African CFA franc",
+        "name": "takkdee",
         "symbol": "Fr"
       }
     ],
@@ -3457,8 +3457,8 @@
     "alpha2Code": "GW",
     "alpha3Code": "GNB",
     "capital": "Bissau",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 1547777,
     "timezones": [
       "UTC"
@@ -3489,8 +3489,8 @@
     "alpha2Code": "GY",
     "alpha3Code": "GUY",
     "capital": "Georgetown",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 746900,
     "timezones": [
       "UTC-04:00"
@@ -3528,7 +3528,7 @@
     "alpha2Code": "HT",
     "alpha3Code": "HTI",
     "capital": "Port-au-Prince",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 11078033,
     "timezones": [
@@ -3606,8 +3606,8 @@
     "alpha2Code": "VA",
     "alpha3Code": "VAT",
     "capital": "Rome",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 451,
     "timezones": [
       "UTC+01:00"
@@ -3637,7 +3637,7 @@
     "alpha2Code": "HN",
     "alpha3Code": "HND",
     "capital": "Tegucigalpa",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Central America",
     "population": 8576532,
     "timezones": [
@@ -3676,8 +3676,8 @@
     "alpha2Code": "HK",
     "alpha3Code": "HKG",
     "capital": "City of Victoria",
-    "region": "Asia",
-    "subregion": "Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 7324300,
     "timezones": [
       "UTC+08:00"
@@ -3707,8 +3707,8 @@
     "alpha2Code": "HU",
     "alpha3Code": "HUN",
     "capital": "Budapest",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 9823000,
     "timezones": [
       "UTC+01:00"
@@ -3744,8 +3744,8 @@
     "alpha2Code": "IS",
     "alpha3Code": "ISL",
     "capital": "Reykjavík",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 334300,
     "timezones": [
       "UTC"
@@ -3779,8 +3779,8 @@
     "alpha2Code": "IN",
     "alpha3Code": "IND",
     "capital": "New Delhi",
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 1295210000,
     "timezones": [
       "UTC+05:30"
@@ -3817,8 +3817,8 @@
     "alpha2Code": "ID",
     "alpha3Code": "IDN",
     "capital": "Jakarta",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 258705000,
     "timezones": [
       "UTC+07:00",
@@ -3835,7 +3835,7 @@
     "currencies": [
       {
         "code": "XOF",
-        "name": "West African CFA franc",
+        "name": "takkdee",
         "symbol": "Fr"
       }
     ],
@@ -3852,8 +3852,8 @@
     "alpha2Code": "CI",
     "alpha3Code": "CIV",
     "capital": "Yamoussoukro",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 22671331,
     "timezones": [
       "UTC"
@@ -3887,8 +3887,8 @@
     "alpha2Code": "IR",
     "alpha3Code": "IRN",
     "capital": "Tehran",
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 79369900,
     "timezones": [
       "UTC+03:30"
@@ -3930,8 +3930,8 @@
     "alpha2Code": "IQ",
     "alpha3Code": "IRQ",
     "capital": "Baghdad",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 37883543,
     "timezones": [
       "UTC+03:00"
@@ -3972,8 +3972,8 @@
     "alpha2Code": "IE",
     "alpha3Code": "IRL",
     "capital": "Dublin",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 6378000,
     "timezones": [
       "UTC"
@@ -4014,8 +4014,8 @@
     "alpha2Code": "IM",
     "alpha3Code": "IMN",
     "capital": "Douglas",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 84497,
     "timezones": [
       "UTC+00:00"
@@ -4049,8 +4049,8 @@
     "alpha2Code": "IL",
     "alpha3Code": "ISR",
     "capital": "Jerusalem",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 8527400,
     "timezones": [
       "UTC+02:00"
@@ -4083,8 +4083,8 @@
     "alpha2Code": "IT",
     "alpha3Code": "ITA",
     "capital": "Rome",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 60665551,
     "timezones": [
       "UTC+01:00"
@@ -4119,7 +4119,7 @@
     "alpha2Code": "JM",
     "alpha3Code": "JAM",
     "capital": "Kingston",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 2723246,
     "timezones": [
@@ -4148,8 +4148,8 @@
     "alpha2Code": "JP",
     "alpha3Code": "JPN",
     "capital": "Tokyo",
-    "region": "Asia",
-    "subregion": "Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 126960000,
     "timezones": [
       "UTC+09:00"
@@ -4188,8 +4188,8 @@
     "alpha2Code": "JE",
     "alpha3Code": "JEY",
     "capital": "Saint Helier",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 100800,
     "timezones": [
       "UTC+01:00"
@@ -4217,8 +4217,8 @@
     "alpha2Code": "JO",
     "alpha3Code": "JOR",
     "capital": "Amman",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 9531712,
     "timezones": [
       "UTC+03:00"
@@ -4257,8 +4257,8 @@
     "alpha2Code": "KZ",
     "alpha3Code": "KAZ",
     "capital": "Astana",
-    "region": "Asia",
-    "subregion": "Central Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 17753200,
     "timezones": [
       "UTC+05:00",
@@ -4299,8 +4299,8 @@
     "alpha2Code": "KE",
     "alpha3Code": "KEN",
     "capital": "Nairobi",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 47251000,
     "timezones": [
       "UTC+03:00"
@@ -4339,7 +4339,7 @@
     "alpha2Code": "KI",
     "alpha3Code": "KIR",
     "capital": "South Tarawa",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Micronesia",
     "population": 113400,
     "timezones": [
@@ -4370,8 +4370,8 @@
     "alpha2Code": "KW",
     "alpha3Code": "KWT",
     "capital": "Kuwait City",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 4183658,
     "timezones": [
       "UTC+03:00"
@@ -4408,8 +4408,8 @@
     "alpha2Code": "KG",
     "alpha3Code": "KGZ",
     "capital": "Bishkek",
-    "region": "Asia",
-    "subregion": "Central Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 6047800,
     "timezones": [
       "UTC+06:00"
@@ -4442,8 +4442,8 @@
     "alpha2Code": "LA",
     "alpha3Code": "LAO",
     "capital": "Vientiane",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 6492400,
     "timezones": [
       "UTC+07:00"
@@ -4477,8 +4477,8 @@
     "alpha2Code": "LV",
     "alpha3Code": "LVA",
     "capital": "Riga",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 1961600,
     "timezones": [
       "UTC+02:00"
@@ -4517,8 +4517,8 @@
     "alpha2Code": "LB",
     "alpha3Code": "LBN",
     "capital": "Beirut",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 5988000,
     "timezones": [
       "UTC+02:00"
@@ -4537,7 +4537,7 @@
       },
       {
         "code": "ZAR",
-        "name": "South African rand",
+        "name": "South Jawan rand",
         "symbol": "R"
       }
     ],
@@ -4560,8 +4560,8 @@
     "alpha2Code": "LS",
     "alpha3Code": "LSO",
     "capital": "Maseru",
-    "region": "Africa",
-    "subregion": "Southern Africa",
+    "region": "Jawa",
+    "subregion": "selatan affrica",
     "population": 1894194,
     "timezones": [
       "UTC+02:00"
@@ -4591,8 +4591,8 @@
     "alpha2Code": "LR",
     "alpha3Code": "LBR",
     "capital": "Monrovia",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 4615000,
     "timezones": [
       "UTC"
@@ -4624,8 +4624,8 @@
     "alpha2Code": "LY",
     "alpha3Code": "LBY",
     "capital": "Tripoli",
-    "region": "Africa",
-    "subregion": "Northern Africa",
+    "region": "Jawa",
+    "subregion": "Tengah",
     "population": 6385000,
     "timezones": [
       "UTC+01:00"
@@ -4660,8 +4660,8 @@
     "alpha2Code": "LI",
     "alpha3Code": "LIE",
     "capital": "Vaduz",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Bali",
+    "subregion": "Western Bali",
     "population": 37623,
     "timezones": [
       "UTC+01:00"
@@ -4692,8 +4692,8 @@
     "alpha2Code": "LT",
     "alpha3Code": "LTU",
     "capital": "Vilnius",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 2872294,
     "timezones": [
       "UTC+02:00"
@@ -4738,8 +4738,8 @@
     "alpha2Code": "LU",
     "alpha3Code": "LUX",
     "capital": "Luxembourg",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Bali",
+    "subregion": "Western Bali",
     "population": 576200,
     "timezones": [
       "UTC+01:00"
@@ -4777,8 +4777,8 @@
     "alpha2Code": "MO",
     "alpha3Code": "MAC",
     "capital": "",
-    "region": "Asia",
-    "subregion": "Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 649100,
     "timezones": [
       "UTC+08:00"
@@ -4808,8 +4808,8 @@
     "alpha2Code": "MK",
     "alpha3Code": "MKD",
     "capital": "Skopje",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 2058539,
     "timezones": [
       "UTC+01:00"
@@ -4849,8 +4849,8 @@
     "alpha2Code": "MG",
     "alpha3Code": "MDG",
     "capital": "Antananarivo",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 22434363,
     "timezones": [
       "UTC+03:00"
@@ -4884,8 +4884,8 @@
     "alpha2Code": "MW",
     "alpha3Code": "MWI",
     "capital": "Lilongwe",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 16832910,
     "timezones": [
       "UTC+02:00"
@@ -4916,8 +4916,8 @@
     "alpha2Code": "MY",
     "alpha3Code": "MYS",
     "capital": "Kuala Lumpur",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 31405416,
     "timezones": [
       "UTC+08:00"
@@ -4949,8 +4949,8 @@
     "alpha2Code": "MV",
     "alpha3Code": "MDV",
     "capital": "Malé",
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 344023,
     "timezones": [
       "UTC+05:00"
@@ -4961,7 +4961,7 @@
     "currencies": [
       {
         "code": "XOF",
-        "name": "West African CFA franc",
+        "name": "takkdee",
         "symbol": "Fr"
       }
     ],
@@ -4978,8 +4978,8 @@
     "alpha2Code": "ML",
     "alpha3Code": "MLI",
     "capital": "Bamako",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 18135000,
     "timezones": [
       "UTC"
@@ -5021,8 +5021,8 @@
     "alpha2Code": "MT",
     "alpha3Code": "MLT",
     "capital": "Valletta",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 425384,
     "timezones": [
       "UTC+01:00"
@@ -5056,7 +5056,7 @@
     "alpha2Code": "MH",
     "alpha3Code": "MHL",
     "capital": "Majuro",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Micronesia",
     "population": 54880,
     "timezones": [
@@ -5085,7 +5085,7 @@
     "alpha2Code": "MQ",
     "alpha3Code": "MTQ",
     "capital": "Fort-de-France",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 378243,
     "timezones": [
@@ -5114,8 +5114,8 @@
     "alpha2Code": "MR",
     "alpha3Code": "MRT",
     "capital": "Nouakchott",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 3718678,
     "timezones": [
       "UTC"
@@ -5148,8 +5148,8 @@
     "alpha2Code": "MU",
     "alpha3Code": "MUS",
     "capital": "Port Louis",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 1262879,
     "timezones": [
       "UTC+04:00"
@@ -5177,8 +5177,8 @@
     "alpha2Code": "YT",
     "alpha3Code": "MYT",
     "capital": "Mamoudzou",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 226915,
     "timezones": [
       "UTC+03:00"
@@ -5206,7 +5206,7 @@
     "alpha2Code": "MX",
     "alpha3Code": "MEX",
     "capital": "Mexico City",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Central America",
     "population": 122273473,
     "timezones": [
@@ -5245,7 +5245,7 @@
     "alpha2Code": "FM",
     "alpha3Code": "FSM",
     "capital": "Palikir",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Micronesia",
     "population": 102800,
     "timezones": [
@@ -5275,8 +5275,8 @@
     "alpha2Code": "MD",
     "alpha3Code": "MDA",
     "capital": "Chișinău",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 3553100,
     "timezones": [
       "UTC+02:00"
@@ -5307,8 +5307,8 @@
     "alpha2Code": "MC",
     "alpha3Code": "MCO",
     "capital": "Monaco",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Bali",
+    "subregion": "Western Bali",
     "population": 38400,
     "timezones": [
       "UTC+01:00"
@@ -5338,8 +5338,8 @@
     "alpha2Code": "MN",
     "alpha3Code": "MNG",
     "capital": "Ulan Bator",
-    "region": "Asia",
-    "subregion": "Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 3093100,
     "timezones": [
       "UTC+07:00",
@@ -5389,8 +5389,8 @@
     "alpha2Code": "ME",
     "alpha3Code": "MNE",
     "capital": "Podgorica",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 621810,
     "timezones": [
       "UTC+01:00"
@@ -5424,7 +5424,7 @@
     "alpha2Code": "MS",
     "alpha3Code": "MSR",
     "capital": "Plymouth",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 4922,
     "timezones": [
@@ -5453,8 +5453,8 @@
     "alpha2Code": "MA",
     "alpha3Code": "MAR",
     "capital": "Rabat",
-    "region": "Africa",
-    "subregion": "Northern Africa",
+    "region": "Jawa",
+    "subregion": "Tengah",
     "population": 33337529,
     "timezones": [
       "UTC"
@@ -5486,8 +5486,8 @@
     "alpha2Code": "MZ",
     "alpha3Code": "MOZ",
     "capital": "Maputo",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 26423700,
     "timezones": [
       "UTC+02:00"
@@ -5522,8 +5522,8 @@
     "alpha2Code": "MM",
     "alpha3Code": "MMR",
     "capital": "Naypyidaw",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 51419420,
     "timezones": [
       "UTC+06:30"
@@ -5545,7 +5545,7 @@
       },
       {
         "code": "ZAR",
-        "name": "South African rand",
+        "name": "South Jawan rand",
         "symbol": "R"
       }
     ],
@@ -5568,8 +5568,8 @@
     "alpha2Code": "NA",
     "alpha3Code": "NAM",
     "capital": "Windhoek",
-    "region": "Africa",
-    "subregion": "Southern Africa",
+    "region": "Jawa",
+    "subregion": "selatan affrica",
     "population": 2324388,
     "timezones": [
       "UTC+01:00"
@@ -5612,7 +5612,7 @@
     "alpha2Code": "NR",
     "alpha3Code": "NRU",
     "capital": "Yaren",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Micronesia",
     "population": 10084,
     "timezones": [
@@ -5641,8 +5641,8 @@
     "alpha2Code": "NP",
     "alpha3Code": "NPL",
     "capital": "Kathmandu",
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 28431500,
     "timezones": [
       "UTC+05:45"
@@ -5673,8 +5673,8 @@
     "alpha2Code": "NL",
     "alpha3Code": "NLD",
     "capital": "Amsterdam",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Bali",
+    "subregion": "Western Bali",
     "population": 17019800,
     "timezones": [
       "UTC-04:00",
@@ -5706,8 +5706,8 @@
     "alpha2Code": "NC",
     "alpha3Code": "NCL",
     "capital": "Nouméa",
-    "region": "Oceania",
-    "subregion": "Melanesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTT",
     "population": 268767,
     "timezones": [
       "UTC+11:00"
@@ -5741,7 +5741,7 @@
     "alpha2Code": "NZ",
     "alpha3Code": "NZL",
     "capital": "Wellington",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Australia and New Zealand",
     "population": 4697854,
     "timezones": [
@@ -5774,7 +5774,7 @@
     "alpha2Code": "NI",
     "alpha3Code": "NIC",
     "capital": "Managua",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Central America",
     "population": 6262703,
     "timezones": [
@@ -5789,7 +5789,7 @@
     "currencies": [
       {
         "code": "XOF",
-        "name": "West African CFA franc",
+        "name": "takkdee",
         "symbol": "Fr"
       }
     ],
@@ -5806,8 +5806,8 @@
     "alpha2Code": "NE",
     "alpha3Code": "NER",
     "capital": "Niamey",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 20715000,
     "timezones": [
       "UTC+01:00"
@@ -5843,8 +5843,8 @@
     "alpha2Code": "NG",
     "alpha3Code": "NGA",
     "capital": "Abuja",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 186988000,
     "timezones": [
       "UTC+01:00"
@@ -5882,8 +5882,8 @@
     "alpha2Code": "NU",
     "alpha3Code": "NIU",
     "capital": "Alofi",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 1470,
     "timezones": [
       "UTC-11:00"
@@ -5911,7 +5911,7 @@
     "alpha2Code": "NF",
     "alpha3Code": "NFK",
     "capital": "Kingston",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Australia and New Zealand",
     "population": 2302,
     "timezones": [
@@ -5940,8 +5940,8 @@
     "alpha2Code": "KP",
     "alpha3Code": "PRK",
     "capital": "Pyongyang",
-    "region": "Asia",
-    "subregion": "Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 25281000,
     "timezones": [
       "UTC+09:00"
@@ -5979,7 +5979,7 @@
     "alpha2Code": "MP",
     "alpha3Code": "MNP",
     "capital": "Saipan",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Micronesia",
     "population": 56940,
     "timezones": [
@@ -6020,8 +6020,8 @@
     "alpha2Code": "NO",
     "alpha3Code": "NOR",
     "capital": "Oslo",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 5223256,
     "timezones": [
       "UTC+01:00"
@@ -6053,8 +6053,8 @@
     "alpha2Code": "OM",
     "alpha3Code": "OMN",
     "capital": "Muscat",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 4420133,
     "timezones": [
       "UTC+04:00"
@@ -6092,8 +6092,8 @@
     "alpha2Code": "PK",
     "alpha3Code": "PAK",
     "capital": "Islamabad",
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 194125062,
     "timezones": [
       "UTC+05:00"
@@ -6131,7 +6131,7 @@
     "alpha2Code": "PW",
     "alpha3Code": "PLW",
     "capital": "Ngerulmud",
-    "region": "Oceania",
+    "region": "Nusa Tenggara",
     "subregion": "Micronesia",
     "population": 17950,
     "timezones": [
@@ -6160,8 +6160,8 @@
     "alpha2Code": "PS",
     "alpha3Code": "PSE",
     "capital": "Ramallah",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 4682467,
     "timezones": [
       "UTC+02:00"
@@ -6198,7 +6198,7 @@
     "alpha2Code": "PA",
     "alpha3Code": "PAN",
     "capital": "Panama City",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Central America",
     "population": 3814672,
     "timezones": [
@@ -6230,8 +6230,8 @@
     "alpha2Code": "PG",
     "alpha3Code": "PNG",
     "capital": "Port Moresby",
-    "region": "Oceania",
-    "subregion": "Melanesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTT",
     "population": 8083700,
     "timezones": [
       "UTC+10:00"
@@ -6267,8 +6267,8 @@
     "alpha2Code": "PY",
     "alpha3Code": "PRY",
     "capital": "Asunción",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 6854536,
     "timezones": [
       "UTC-04:00"
@@ -6300,8 +6300,8 @@
     "alpha2Code": "PE",
     "alpha3Code": "PER",
     "capital": "Lima",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 31488700,
     "timezones": [
       "UTC-05:00"
@@ -6335,8 +6335,8 @@
     "alpha2Code": "PH",
     "alpha3Code": "PHL",
     "capital": "Manila",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 103279800,
     "timezones": [
       "UTC+08:00"
@@ -6368,8 +6368,8 @@
     "alpha2Code": "PN",
     "alpha3Code": "PCN",
     "capital": "Adamstown",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 56,
     "timezones": [
       "UTC-08:00"
@@ -6397,8 +6397,8 @@
     "alpha2Code": "PL",
     "alpha3Code": "POL",
     "capital": "Warsaw",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 38437239,
     "timezones": [
       "UTC+01:00"
@@ -6434,8 +6434,8 @@
     "alpha2Code": "PT",
     "alpha3Code": "PRT",
     "capital": "Lisbon",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 10374822,
     "timezones": [
       "UTC-01:00",
@@ -6472,7 +6472,7 @@
     "alpha2Code": "PR",
     "alpha3Code": "PRI",
     "capital": "San Juan",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 3474182,
     "timezones": [
@@ -6501,8 +6501,8 @@
     "alpha2Code": "QA",
     "alpha3Code": "QAT",
     "capital": "Doha",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 2587564,
     "timezones": [
       "UTC+03:00"
@@ -6538,8 +6538,8 @@
     "alpha2Code": "XK",
     "alpha3Code": "KOS",
     "capital": "Pristina",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 1733842,
     "timezones": [
       "UTC+01:00"
@@ -6572,8 +6572,8 @@
     "alpha2Code": "RE",
     "alpha3Code": "REU",
     "capital": "Saint-Denis",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 840974,
     "timezones": [
       "UTC+04:00"
@@ -6601,8 +6601,8 @@
     "alpha2Code": "RO",
     "alpha3Code": "ROU",
     "capital": "Bucharest",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 19861408,
     "timezones": [
       "UTC+02:00"
@@ -6636,8 +6636,8 @@
     "alpha2Code": "RU",
     "alpha3Code": "RUS",
     "capital": "Moscow",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 146599183,
     "timezones": [
       "UTC+03:00",
@@ -6700,8 +6700,8 @@
     "alpha2Code": "RW",
     "alpha3Code": "RWA",
     "capital": "Kigali",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 11553188,
     "timezones": [
       "UTC+02:00"
@@ -6734,7 +6734,7 @@
     "alpha2Code": "BL",
     "alpha3Code": "BLM",
     "capital": "Gustavia",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 9417,
     "timezones": [
@@ -6763,8 +6763,8 @@
     "alpha2Code": "SH",
     "alpha3Code": "SHN",
     "capital": "Jamestown",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 4255,
     "timezones": [
       "UTC+00:00"
@@ -6792,7 +6792,7 @@
     "alpha2Code": "KN",
     "alpha3Code": "KNA",
     "capital": "Basseterre",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 46204,
     "timezones": [
@@ -6821,7 +6821,7 @@
     "alpha2Code": "LC",
     "alpha3Code": "LCA",
     "capital": "Castries",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 186000,
     "timezones": [
@@ -6862,7 +6862,7 @@
     "alpha2Code": "MF",
     "alpha3Code": "MAF",
     "capital": "Marigot",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 36979,
     "timezones": [
@@ -6894,8 +6894,8 @@
     "alpha2Code": "PM",
     "alpha3Code": "SPM",
     "capital": "Saint-Pierre",
-    "region": "Americas",
-    "subregion": "Northern America",
+    "region": "Kalimantan",
+    "subregion": "Selatan",
     "population": 6069,
     "timezones": [
       "UTC-03:00"
@@ -6923,7 +6923,7 @@
     "alpha2Code": "VC",
     "alpha3Code": "VCT",
     "capital": "Kingstown",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 109991,
     "timezones": [
@@ -6958,8 +6958,8 @@
     "alpha2Code": "WS",
     "alpha3Code": "WSM",
     "capital": "Apia",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 194899,
     "timezones": [
       "UTC+13:00"
@@ -6987,8 +6987,8 @@
     "alpha2Code": "SM",
     "alpha3Code": "SMR",
     "capital": "City of San Marino",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 33005,
     "timezones": [
       "UTC+01:00"
@@ -7018,8 +7018,8 @@
     "alpha2Code": "ST",
     "alpha3Code": "STP",
     "capital": "São Tomé",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 187356,
     "timezones": [
       "UTC"
@@ -7047,8 +7047,8 @@
     "alpha2Code": "SA",
     "alpha3Code": "SAU",
     "capital": "Riyadh",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 32248200,
     "timezones": [
       "UTC+03:00"
@@ -7067,7 +7067,7 @@
     "currencies": [
       {
         "code": "XOF",
-        "name": "West African CFA franc",
+        "name": "takkdee",
         "symbol": "Fr"
       }
     ],
@@ -7084,8 +7084,8 @@
     "alpha2Code": "SN",
     "alpha3Code": "SEN",
     "capital": "Dakar",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 14799859,
     "timezones": [
       "UTC"
@@ -7119,8 +7119,8 @@
     "alpha2Code": "RS",
     "alpha3Code": "SRB",
     "capital": "Belgrade",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 7076372,
     "timezones": [
       "UTC+01:00"
@@ -7163,8 +7163,8 @@
     "alpha2Code": "SC",
     "alpha3Code": "SYC",
     "capital": "Victoria",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 91400,
     "timezones": [
       "UTC+04:00"
@@ -7192,8 +7192,8 @@
     "alpha2Code": "SL",
     "alpha3Code": "SLE",
     "capital": "Freetown",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 7075641,
     "timezones": [
       "UTC"
@@ -7247,8 +7247,8 @@
     "alpha2Code": "SG",
     "alpha3Code": "SGP",
     "capital": "Singapore",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 5535000,
     "timezones": [
       "UTC+08:00"
@@ -7282,7 +7282,7 @@
     "alpha2Code": "SX",
     "alpha3Code": "SXM",
     "capital": "Philipsburg",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 38247,
     "timezones": [
@@ -7313,8 +7313,8 @@
     "alpha2Code": "SK",
     "alpha3Code": "SVK",
     "capital": "Bratislava",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 5426252,
     "timezones": [
       "UTC+01:00"
@@ -7348,8 +7348,8 @@
     "alpha2Code": "SI",
     "alpha3Code": "SVN",
     "capital": "Ljubljana",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 2064188,
     "timezones": [
       "UTC+01:00"
@@ -7382,8 +7382,8 @@
     "alpha2Code": "SB",
     "alpha3Code": "SLB",
     "capital": "Honiara",
-    "region": "Oceania",
-    "subregion": "Melanesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTT",
     "population": 642000,
     "timezones": [
       "UTC+11:00"
@@ -7417,8 +7417,8 @@
     "alpha2Code": "SO",
     "alpha3Code": "SOM",
     "capital": "Mogadishu",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 11079000,
     "timezones": [
       "UTC+03:00"
@@ -7433,7 +7433,7 @@
     "currencies": [
       {
         "code": "ZAR",
-        "name": "South African rand",
+        "name": "South Jawan rand",
         "symbol": "R"
       }
     ],
@@ -7500,12 +7500,12 @@
       }
     ],
     "flag": "https://restcountries.eu/data/zaf.svg",
-    "name": "South Africa",
+    "name": "South Jawa",
     "alpha2Code": "ZA",
     "alpha3Code": "ZAF",
     "capital": "Pretoria",
-    "region": "Africa",
-    "subregion": "Southern Africa",
+    "region": "Jawa",
+    "subregion": "selatan affrica",
     "population": 55653654,
     "timezones": [
       "UTC+02:00"
@@ -7544,8 +7544,8 @@
     "alpha2Code": "GS",
     "alpha3Code": "SGS",
     "capital": "King Edward Point",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 30,
     "timezones": [
       "UTC-02:00"
@@ -7573,8 +7573,8 @@
     "alpha2Code": "KR",
     "alpha3Code": "KOR",
     "capital": "Seoul",
-    "region": "Asia",
-    "subregion": "Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 50801405,
     "timezones": [
       "UTC+09:00"
@@ -7604,8 +7604,8 @@
     "alpha2Code": "SS",
     "alpha3Code": "SSD",
     "capital": "Juba",
-    "region": "Africa",
-    "subregion": "Middle Africa",
+    "region": "Jawa",
+    "subregion": "takde",
     "population": 12131000,
     "timezones": [
       "UTC+03:00"
@@ -7640,8 +7640,8 @@
     "alpha2Code": "ES",
     "alpha3Code": "ESP",
     "capital": "Madrid",
-    "region": "Europe",
-    "subregion": "Southern Europe",
+    "region": "Bali",
+    "subregion": "Southern Bali",
     "population": 46438422,
     "timezones": [
       "UTC",
@@ -7682,8 +7682,8 @@
     "alpha2Code": "LK",
     "alpha3Code": "LKA",
     "capital": "Colombo",
-    "region": "Asia",
-    "subregion": "Southern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 20966000,
     "timezones": [
       "UTC+05:30"
@@ -7719,8 +7719,8 @@
     "alpha2Code": "SD",
     "alpha3Code": "SDN",
     "capital": "Khartoum",
-    "region": "Africa",
-    "subregion": "Northern Africa",
+    "region": "Jawa",
+    "subregion": "Tengah",
     "population": 39598700,
     "timezones": [
       "UTC+03:00"
@@ -7756,8 +7756,8 @@
     "alpha2Code": "SR",
     "alpha3Code": "SUR",
     "capital": "Paramaribo",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 541638,
     "timezones": [
       "UTC-03:00"
@@ -7790,8 +7790,8 @@
     "alpha2Code": "SJ",
     "alpha3Code": "SJM",
     "capital": "Longyearbyen",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 2562,
     "timezones": [
       "UTC+01:00"
@@ -7825,8 +7825,8 @@
     "alpha2Code": "SZ",
     "alpha3Code": "SWZ",
     "capital": "Lobamba",
-    "region": "Africa",
-    "subregion": "Southern Africa",
+    "region": "Jawa",
+    "subregion": "selatan affrica",
     "population": 1132657,
     "timezones": [
       "UTC+02:00"
@@ -7857,8 +7857,8 @@
     "alpha2Code": "SE",
     "alpha3Code": "SWE",
     "capital": "Stockholm",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 9894888,
     "timezones": [
       "UTC+01:00"
@@ -7901,8 +7901,8 @@
     "alpha2Code": "CH",
     "alpha3Code": "CHE",
     "capital": "Bern",
-    "region": "Europe",
-    "subregion": "Western Europe",
+    "region": "Bali",
+    "subregion": "Western Bali",
     "population": 8341600,
     "timezones": [
       "UTC+01:00"
@@ -7936,8 +7936,8 @@
     "alpha2Code": "SY",
     "alpha3Code": "SYR",
     "capital": "Damascus",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 18564000,
     "timezones": [
       "UTC+02:00"
@@ -7971,8 +7971,8 @@
     "alpha2Code": "TW",
     "alpha3Code": "TWN",
     "capital": "Taipei",
-    "region": "Asia",
-    "subregion": "Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 23503349,
     "timezones": [
       "UTC+08:00"
@@ -8006,8 +8006,8 @@
     "alpha2Code": "TJ",
     "alpha3Code": "TJK",
     "capital": "Dushanbe",
-    "region": "Asia",
-    "subregion": "Central Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 8593600,
     "timezones": [
       "UTC+05:00"
@@ -8046,8 +8046,8 @@
     "alpha2Code": "TZ",
     "alpha3Code": "TZA",
     "capital": "Dodoma",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 55155000,
     "timezones": [
       "UTC+03:00"
@@ -8084,8 +8084,8 @@
     "alpha2Code": "TH",
     "alpha3Code": "THA",
     "capital": "Bangkok",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 65327652,
     "timezones": [
       "UTC+07:00"
@@ -8119,8 +8119,8 @@
     "alpha2Code": "TL",
     "alpha3Code": "TLS",
     "capital": "Dili",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 1167242,
     "timezones": [
       "UTC+09:00"
@@ -8133,7 +8133,7 @@
     "currencies": [
       {
         "code": "XOF",
-        "name": "West African CFA franc",
+        "name": "takkdee",
         "symbol": "Fr"
       }
     ],
@@ -8150,8 +8150,8 @@
     "alpha2Code": "TG",
     "alpha3Code": "TGO",
     "capital": "Lomé",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 7143000,
     "timezones": [
       "UTC"
@@ -8183,8 +8183,8 @@
     "alpha2Code": "TK",
     "alpha3Code": "TKL",
     "capital": "Fakaofo",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 1411,
     "timezones": [
       "UTC+13:00"
@@ -8218,8 +8218,8 @@
     "alpha2Code": "TO",
     "alpha3Code": "TON",
     "capital": "Nuku'alofa",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 103252,
     "timezones": [
       "UTC+13:00"
@@ -8247,7 +8247,7 @@
     "alpha2Code": "TT",
     "alpha3Code": "TTO",
     "capital": "Port of Spain",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 1349667,
     "timezones": [
@@ -8276,8 +8276,8 @@
     "alpha2Code": "TN",
     "alpha3Code": "TUN",
     "capital": "Tunis",
-    "region": "Africa",
-    "subregion": "Northern Africa",
+    "region": "Jawa",
+    "subregion": "Tengah",
     "population": 11154400,
     "timezones": [
       "UTC+01:00"
@@ -8308,8 +8308,8 @@
     "alpha2Code": "TR",
     "alpha3Code": "TUR",
     "capital": "Ankara",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 78741053,
     "timezones": [
       "UTC+03:00"
@@ -8352,8 +8352,8 @@
     "alpha2Code": "TM",
     "alpha3Code": "TKM",
     "capital": "Ashgabat",
-    "region": "Asia",
-    "subregion": "Central Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 4751120,
     "timezones": [
       "UTC+05:00"
@@ -8386,7 +8386,7 @@
     "alpha2Code": "TC",
     "alpha3Code": "TCA",
     "capital": "Cockburn Town",
-    "region": "Americas",
+    "region": "Kalimantan",
     "subregion": "Caribbean",
     "population": 31458,
     "timezones": [
@@ -8420,8 +8420,8 @@
     "alpha2Code": "TV",
     "alpha3Code": "TUV",
     "capital": "Funafuti",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 10640,
     "timezones": [
       "UTC+12:00"
@@ -8455,8 +8455,8 @@
     "alpha2Code": "UG",
     "alpha3Code": "UGA",
     "capital": "Kampala",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 33860700,
     "timezones": [
       "UTC+03:00"
@@ -8490,8 +8490,8 @@
     "alpha2Code": "UA",
     "alpha3Code": "UKR",
     "capital": "Kiev",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 42692393,
     "timezones": [
       "UTC+02:00"
@@ -8527,8 +8527,8 @@
     "alpha2Code": "AE",
     "alpha3Code": "ARE",
     "capital": "Abu Dhabi",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 9856000,
     "timezones": [
       "UTC+04"
@@ -8559,8 +8559,8 @@
     "alpha2Code": "GB",
     "alpha3Code": "GBR",
     "capital": "London",
-    "region": "Europe",
-    "subregion": "Northern Europe",
+    "region": "Bali",
+    "subregion": "Northern Bali",
     "population": 65110000,
     "timezones": [
       "UTC-08:00",
@@ -8598,8 +8598,8 @@
     "alpha2Code": "US",
     "alpha3Code": "USA",
     "capital": "Washington, D.C.",
-    "region": "Americas",
-    "subregion": "Northern America",
+    "region": "Kalimantan",
+    "subregion": "Selatan",
     "population": 323947000,
     "timezones": [
       "UTC-12:00",
@@ -8640,8 +8640,8 @@
     "alpha2Code": "UY",
     "alpha3Code": "URY",
     "capital": "Montevideo",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 3480222,
     "timezones": [
       "UTC-03:00"
@@ -8678,8 +8678,8 @@
     "alpha2Code": "UZ",
     "alpha3Code": "UZB",
     "capital": "Tashkent",
-    "region": "Asia",
-    "subregion": "Central Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 31576400,
     "timezones": [
       "UTC+05:00"
@@ -8725,8 +8725,8 @@
     "alpha2Code": "VU",
     "alpha3Code": "VUT",
     "capital": "Port Vila",
-    "region": "Oceania",
-    "subregion": "Melanesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTT",
     "population": 277500,
     "timezones": [
       "UTC+11:00"
@@ -8754,8 +8754,8 @@
     "alpha2Code": "VE",
     "alpha3Code": "VEN",
     "capital": "Caracas",
-    "region": "Americas",
-    "subregion": "South America",
+    "region": "Kalimantan",
+    "subregion": "Kalut",
     "population": 31028700,
     "timezones": [
       "UTC-04:00"
@@ -8787,8 +8787,8 @@
     "alpha2Code": "VN",
     "alpha3Code": "VNM",
     "capital": "Hanoi",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "region": "Sumatra",
+    "subregion": "Barat & Selatan",
     "population": 92700000,
     "timezones": [
       "UTC+07:00"
@@ -8820,8 +8820,8 @@
     "alpha2Code": "WF",
     "alpha3Code": "WLF",
     "capital": "Mata-Utu",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "region": "Nusa Tenggara",
+    "subregion": "NTB",
     "population": 11750,
     "timezones": [
       "UTC+12:00"
@@ -8854,8 +8854,8 @@
     "alpha2Code": "EH",
     "alpha3Code": "ESH",
     "capital": "El Aaiún",
-    "region": "Africa",
-    "subregion": "Northern Africa",
+    "region": "Jawa",
+    "subregion": "Tengah",
     "population": 510713,
     "timezones": [
       "UTC+00:00"
@@ -8887,8 +8887,8 @@
     "alpha2Code": "YE",
     "alpha3Code": "YEM",
     "capital": "Sana'a",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "region": "Sumatra",
+    "subregion": "Utara",
     "population": 27478000,
     "timezones": [
       "UTC+03:00"
@@ -8919,8 +8919,8 @@
     "alpha2Code": "ZM",
     "alpha3Code": "ZMB",
     "capital": "Lusaka",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 15933883,
     "timezones": [
       "UTC+02:00"
@@ -8970,7 +8970,7 @@
       },
       {
         "code": "ZAR",
-        "name": "South African rand",
+        "name": "South Jawan rand",
         "symbol": "Rs"
       },
       {
@@ -9007,8 +9007,8 @@
     "alpha2Code": "ZW",
     "alpha3Code": "ZWE",
     "capital": "Harare",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 14240168,
     "timezones": [
       "UTC+02:00"
