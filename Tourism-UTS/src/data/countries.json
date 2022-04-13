@@ -8066,8 +8066,8 @@
   {
     "currencies": [
       {
-        "code": "THB",
-        "name": "Thai baht",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "฿"
       }
     ],
@@ -8075,17 +8075,17 @@
       {
         "iso639_1": "th",
         "iso639_2": "tha",
-        "name": "Thai",
+        "name": "Lampung",
         "nativeName": "ไทย"
       }
     ],
-    "flag": "https://restcountries.eu/data/tha.svg",
-    "name": "Thailand",
+    "flag": "http://2.bp.blogspot.com/-SpRNaEU0Lvs/UnmhDJx1iiI/AAAAAAAAALk/JGObdvXheIQ/s1600/Fantastic-Way-Kambas-national-park-1.jpg",
+    "name": "Lampung",
     "alpha2Code": "TH",
     "alpha3Code": "THA",
-    "capital": "Bangkok",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "capital": "Lampung",
+    "region": "Sumatera",
+    "subregion": "Lampung",
     "population": 65327652,
     "timezones": [
       "UTC+07:00"
@@ -8100,8 +8100,8 @@
   {
     "currencies": [
       {
-        "code": "USD",
-        "name": "United States dollar",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "$"
       },
       {}
@@ -8110,17 +8110,17 @@
       {
         "iso639_1": "pt",
         "iso639_2": "por",
-        "name": "Portuguese",
+        "name": "Padang",
         "nativeName": "Português"
       }
     ],
-    "flag": "https://restcountries.eu/data/tls.svg",
-    "name": "Timor-Leste",
+    "flag": "https://baraoutdoor.com/wp-content/uploads/2019/05/Jam-Gadang-Bukittinggi-Sumatra-Barat.jpg",
+    "name": "Padang",
     "alpha2Code": "TL",
     "alpha3Code": "TLS",
-    "capital": "Dili",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "capital": "Padang",
+    "region": "Sumatera",
+    "subregion": "Barat",
     "population": 1167242,
     "timezones": [
       "UTC+09:00"
@@ -8132,8 +8132,8 @@
   {
     "currencies": [
       {
-        "code": "XOF",
-        "name": "West African CFA franc",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "Fr"
       }
     ],
@@ -8141,17 +8141,17 @@
       {
         "iso639_1": "fr",
         "iso639_2": "fra",
-        "name": "French",
+        "name": "Sunda",
         "nativeName": "français"
       }
     ],
-    "flag": "https://restcountries.eu/data/tgo.svg",
-    "name": "Togo",
+    "flag": "https://www.befreetour.com/img/produk/tangkuban-perahu-volcano-expedition/tangkuban-perahu-volcano-expedition_b5e712ecac63d33380752562af15e203815a9d5a.jpg",
+    "name": "Bandung",
     "alpha2Code": "TG",
     "alpha3Code": "TGO",
-    "capital": "Lomé",
-    "region": "Africa",
-    "subregion": "Western Africa",
+    "capital": "Bandung",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 7143000,
     "timezones": [
       "UTC"
@@ -8165,8 +8165,8 @@
   {
     "currencies": [
       {
-        "code": "NZD",
-        "name": "New Zealand dollar",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "$"
       }
     ],
@@ -8174,17 +8174,17 @@
       {
         "iso639_1": "en",
         "iso639_2": "eng",
-        "name": "English",
+        "name": "Lombok",
         "nativeName": "English"
       }
     ],
-    "flag": "https://restcountries.eu/data/tkl.svg",
-    "name": "Tokelau",
+    "flag": "http://cdn.archinect.net/images/1200x/8z/8zmfz0xf0sy93u6m.jpg",
+    "name": "Lombok",
     "alpha2Code": "TK",
     "alpha3Code": "TKL",
-    "capital": "Fakaofo",
-    "region": "Oceania",
-    "subregion": "Polynesia",
+    "capital": "Lombok",
+    "region": "Nusa Tenggara",
+    "subregion": "Barat",
     "population": 1411,
     "timezones": [
       "UTC+13:00"
@@ -8290,8 +8290,8 @@
   {
     "currencies": [
       {
-        "code": "TRY",
-        "name": "Turkish lira",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "₺"
       }
     ],
@@ -8299,17 +8299,17 @@
       {
         "iso639_1": "tr",
         "iso639_2": "tur",
-        "name": "Turkish",
+        "name": "Batak",
         "nativeName": "Türkçe"
       }
     ],
-    "flag": "https://restcountries.eu/data/tur.svg",
-    "name": "Turkey",
+    "flag": "https://lp-cms-production.imgix.net/2019-06/186320016_super.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4",
+    "name": "Medan",
     "alpha2Code": "TR",
     "alpha3Code": "TUR",
-    "capital": "Ankara",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "capital": "Medan",
+    "region": "Sumatera",
+    "subregion": "Utara",
     "population": 78741053,
     "timezones": [
       "UTC+03:00"
@@ -8440,7 +8440,7 @@
       {
         "iso639_1": "en",
         "iso639_2": "eng",
-        "name": "English",
+        "name": "Jawa",
         "nativeName": "English"
       },
       {
@@ -8450,13 +8450,13 @@
         "nativeName": "Kiswahili"
       }
     ],
-    "flag": "https://restcountries.eu/data/uga.svg",
-    "name": "Uganda",
+    "flag": "https://ijenbridge.com/storage/2017/10/baluran-1.jpg",
+    "name": "Situbondo",
     "alpha2Code": "UG",
     "alpha3Code": "UGA",
-    "capital": "Kampala",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "capital": "Situbondo",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 33860700,
     "timezones": [
       "UTC+03:00"
@@ -8472,8 +8472,8 @@
   {
     "currencies": [
       {
-        "code": "UAH",
-        "name": "Ukrainian hryvnia",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "₴"
       }
     ],
@@ -8481,17 +8481,17 @@
       {
         "iso639_1": "uk",
         "iso639_2": "ukr",
-        "name": "Ukrainian",
+        "name": "Bali",
         "nativeName": "Українська"
       }
     ],
-    "flag": "https://restcountries.eu/data/ukr.svg",
-    "name": "Ukraine",
+    "flag": "https://www.bigbalitours.com/images/slide/view-kintamani-tours_20160326064036.jpg",
+    "name": "Bali",
     "alpha2Code": "UA",
     "alpha3Code": "UKR",
-    "capital": "Kiev",
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "capital": "Bali",
+    "region": "Bali",
+    "subregion": "Bali",
     "population": 42692393,
     "timezones": [
       "UTC+02:00"
@@ -8509,8 +8509,8 @@
   {
     "currencies": [
       {
-        "code": "AED",
-        "name": "United Arab Emirates dirham",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "د.إ"
       }
     ],
@@ -8518,17 +8518,17 @@
       {
         "iso639_1": "ar",
         "iso639_2": "ara",
-        "name": "Arabic",
+        "name": "Baso Palembang",
         "nativeName": "العربية"
       }
     ],
-    "flag": "https://restcountries.eu/data/are.svg",
-    "name": "United Arab Emirates",
+    "flag": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/colorful-of-bukit-barisan-photo-by-sayid-budhi.jpg",
+    "name": "Musi Rawas Utara",
     "alpha2Code": "AE",
     "alpha3Code": "ARE",
-    "capital": "Abu Dhabi",
-    "region": "Asia",
-    "subregion": "Western Asia",
+    "capital": "Palembang",
+    "region": "Sumatera",
+    "subregion": "Selatan",
     "population": 9856000,
     "timezones": [
       "UTC+04"
@@ -8580,8 +8580,8 @@
   {
     "currencies": [
       {
-        "code": "USD",
-        "name": "United States dollar",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "$"
       }
     ],
@@ -8589,17 +8589,17 @@
       {
         "iso639_1": "en",
         "iso639_2": "eng",
-        "name": "English",
+        "name": "Banjar",
         "nativeName": "English"
       }
     ],
-    "flag": "https://restcountries.eu/data/usa.svg",
-    "name": "United States of America",
+    "flag": "https://www.goodnewsfromindonesia.id/wp-content/uploads/images/source/arifinabudi/110967-0-Pasar-Terapung-Muara-Kuin-kidnesia.jpg",
+    "name": "Banjarmasin ",
     "alpha2Code": "US",
     "alpha3Code": "USA",
-    "capital": "Washington, D.C.",
-    "region": "Americas",
-    "subregion": "Northern America",
+    "capital": "Banjarmasin",
+    "region": "Kalimantan",
+    "subregion": "Selatan",
     "population": 323947000,
     "timezones": [
       "UTC-12:00",
@@ -8695,8 +8695,8 @@
   {
     "currencies": [
       {
-        "code": "VUV",
-        "name": "Vanuatu vatu",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "Vt"
       }
     ],
@@ -8704,7 +8704,7 @@
       {
         "iso639_1": "bi",
         "iso639_2": "bis",
-        "name": "Bislama",
+        "name": "Maumere",
         "nativeName": "Bislama"
       },
       {
@@ -8720,13 +8720,13 @@
         "nativeName": "français"
       }
     ],
-    "flag": "https://restcountries.eu/data/vut.svg",
-    "name": "Vanuatu",
+    "flag": "https://i.pinimg.com/originals/b1/b8/ac/b1b8ac1c3a9959e77977a587095ff860.jpg",
+    "name": "Maumere",
     "alpha2Code": "VU",
     "alpha3Code": "VUT",
-    "capital": "Port Vila",
-    "region": "Oceania",
-    "subregion": "Melanesia",
+    "capital": "Maumere",
+    "region": "Nusa Tenggara",
+    "subregion": "Timur",
     "population": 277500,
     "timezones": [
       "UTC+11:00"
@@ -8736,8 +8736,8 @@
   {
     "currencies": [
       {
-        "code": "VEF",
-        "name": "Venezuelan bolívar",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "Bs F"
       }
     ],
@@ -8745,17 +8745,17 @@
       {
         "iso639_1": "es",
         "iso639_2": "spa",
-        "name": "Spanish",
+        "name": "Tarakan",
         "nativeName": "Español"
       }
     ],
-    "flag": "https://restcountries.eu/data/ven.svg",
-    "name": "Venezuela",
+    "flag": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/destinations/kalimantan/north-kalimantan/tarakan/4d5b9efcb8b51057b1114df04ce0f48d4830d959-d365e.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+    "name": "Tarakan",
     "alpha2Code": "VE",
     "alpha3Code": "VEN",
-    "capital": "Caracas",
-    "region": "Americas",
-    "subregion": "South America",
+    "capital": "Tarakan",
+    "region": "Kalimantan",
+    "subregion": "Utara",
     "population": 31028700,
     "timezones": [
       "UTC-04:00"
@@ -8769,8 +8769,8 @@
   {
     "currencies": [
       {
-        "code": "VND",
-        "name": "Vietnamese đồng",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "₫"
       }
     ],
@@ -8778,17 +8778,17 @@
       {
         "iso639_1": "vi",
         "iso639_2": "vie",
-        "name": "Vietnamese",
+        "name": "Baso Palmbang",
         "nativeName": "Tiếng Việt"
       }
     ],
-    "flag": "https://restcountries.eu/data/vnm.svg",
-    "name": "Viet Nam",
+    "flag": "http://www.tanahnusantara.com/wp-content/uploads/2017/10/Sungai-Musi-1024x685.jpeg",
+    "name": "Palembang",
     "alpha2Code": "VN",
     "alpha3Code": "VNM",
-    "capital": "Hanoi",
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
+    "capital": "Palembang",
+    "region": "Sumatera",
+    "subregion": "Selatan",
     "population": 92700000,
     "timezones": [
       "UTC+07:00"
@@ -8831,8 +8831,8 @@
   {
     "currencies": [
       {
-        "code": "MAD",
-        "name": "Moroccan dirham",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "د.م."
       },
       {
@@ -8845,17 +8845,17 @@
       {
         "iso639_1": "es",
         "iso639_2": "spa",
-        "name": "Spanish",
+        "name": "Jawa",
         "nativeName": "Español"
       }
     ],
-    "flag": "https://restcountries.eu/data/esh.svg",
-    "name": "Western Sahara",
+    "flag": "https://i.pinimg.com/originals/ee/fd/8c/eefd8c9dcd3b11f1524eba5f59d28cfd.jpg",
+    "name": "Wonosobo",
     "alpha2Code": "EH",
     "alpha3Code": "ESH",
-    "capital": "El Aaiún",
-    "region": "Africa",
-    "subregion": "Northern Africa",
+    "capital": "Wonosobo",
+    "region": "Jawa",
+    "subregion": "Tengah",
     "population": 510713,
     "timezones": [
       "UTC+00:00"
@@ -8901,8 +8901,8 @@
   {
     "currencies": [
       {
-        "code": "ZMW",
-        "name": "Zambian kwacha",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "ZK"
       }
     ],
@@ -8910,17 +8910,17 @@
       {
         "iso639_1": "en",
         "iso639_2": "eng",
-        "name": "English",
+        "name": "Jawa",
         "nativeName": "English"
       }
     ],
-    "flag": "https://restcountries.eu/data/zmb.svg",
-    "name": "Zambia",
+    "flag": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scrolldroll.com%2Fwp-content%2Fuploads%2F2018%2F05%2FBromo-Tengger-Semeru-National-Park-East-Java-Indonesia.jpg&f=1&nofb=1",
+    "name": "Lumajang",
     "alpha2Code": "ZM",
     "alpha3Code": "ZMB",
-    "capital": "Lusaka",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "capital": "Lumajang",
+    "region": "Jawa",
+    "subregion": "Barat",
     "population": 15933883,
     "timezones": [
       "UTC+02:00"
@@ -8939,8 +8939,8 @@
   {
     "currencies": [
       {
-        "code": "BWP",
-        "name": "Botswana pula",
+        "code": "RP",
+        "name": "Rupiah",
         "symbol": "P"
       },
       {
@@ -8986,7 +8986,7 @@
       {
         "iso639_1": "en",
         "iso639_2": "eng",
-        "name": "English",
+        "name": "Jawa",
         "nativeName": "English"
       },
       {
@@ -9002,13 +9002,13 @@
         "nativeName": "isiNdebele"
       }
     ],
-    "flag": "https://restcountries.eu/data/zwe.svg",
-    "name": "Zimbabwe",
+    "flag": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.1stoutbound.com%2Fwp-content%2Fuploads%2F2013%2F12%2F7010_pantai_balekambang_tanah_lot-nya_malang_.jpg&f=1&nofb=1",
+    "name": "Malang",
     "alpha2Code": "ZW",
     "alpha3Code": "ZWE",
-    "capital": "Harare",
-    "region": "Africa",
-    "subregion": "Eastern Africa",
+    "capital": "Malang",
+    "region": "Jawa",
+    "subregion": "Timur",
     "population": 14240168,
     "timezones": [
       "UTC+02:00"
