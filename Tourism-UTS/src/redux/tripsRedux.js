@@ -49,24 +49,4 @@ export const getTripsForCountry = ({ trips }, countryCode) => {
   return filtered.length ? filtered : [{ error: true }];
 };
 
-/* ACTIONS */
 
-/*
-// action name creator
-const reducerName = 'trips';
-const createActionName = name => `app/${reducerName}/${name}`;
-
-// action types
-
-
-// action creators
-
-
-// reducer
-export default function reducer(statePart = [], action = {}) {
-  switch (action.type) {
-    default:
-      return statePart;
-  }
-}
- */
