@@ -8,7 +8,7 @@ import {Grid, Row} from 'react-flexbox-grid';
 const Countries = ({countries}) => (
   <Section>
     <Grid>
-      <PageTitle text='All countries' />
+      <PageTitle text='Daftar Kota' />
       <Row between="md">
         {Object.keys(countries).map(code => (
           <CountrySummary key={code} {...countries[code]} />

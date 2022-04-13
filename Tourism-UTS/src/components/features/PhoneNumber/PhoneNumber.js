@@ -34,7 +34,7 @@ class PhoneNumber extends React.Component {
     } else if (currentHour >= shifts.helena.start && currentHour < shifts.helena.end) {
       return 'Faris, (+62)85975462312';
     } else {
-      return 'The office opens at 8:00 UTC';
+      return 'Jam Pelayanan Mulai 09.00 - 22.00 WIB';
     }
   }
   
