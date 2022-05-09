@@ -51,13 +51,6 @@ const LoginForm = () => {
                                         }} />
                                     </div>
 
-                                    {/* <div class="d-flex mb-5 align-items-center">
-                                        <label class="control control--checkbox mb-0"><span class="caption">Remember me</span>
-                                            <input type="checkbox" checked="checked" />
-                                            <div class="control__indicator"></div>
-                                        </label>
-                                        <span class="ml-auto"><a href="#" class="forgot-pass">Forgot Password</a></span>
-                                    </div> */}
                                     <button class="btn text-white btn-block btn-success btn-sm md-2" onClick={login}>Login User</button>
                                     <span class="d-block text-left my-4 text-muted"> or Log in with</span>
 
