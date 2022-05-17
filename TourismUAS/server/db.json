@@ -334,6 +334,70 @@
       "tripId": "5cc1d10130dfa407e2e54e20",
       "tripName": "Pleasant trek in outstanding Danau Toba Indonesia",
       "id": 24
+    },
+    {
+      "car-rental": "",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": 1,
+      "children": "20",
+      "name": "Hisyam",
+      "contact": "08227736443",
+      "startDate": "2022-05-24T17:00:00.000Z",
+      "totalCost": "$7,700",
+      "tripId": "5cc1d10130dfa407e2e54e20",
+      "tripName": "Pleasant trek in outstanding Danau Toba Indonesia",
+      "id": 25
+    },
+    {
+      "car-rental": "",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": 1,
+      "children": "20",
+      "name": "Hisyam",
+      "contact": "08227736443",
+      "startDate": "2022-05-24T17:00:00.000Z",
+      "totalCost": "$7,700",
+      "tripId": "5cc1d10130dfa407e2e54e20",
+      "tripName": "Pleasant trek in outstanding Danau Toba Indonesia",
+      "id": 26
+    },
+    {
+      "car-rental": "",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": 1,
+      "children": "20",
+      "name": "Hisyam",
+      "contact": "08227736443",
+      "startDate": "2022-05-24T17:00:00.000Z",
+      "totalCost": "$7,700",
+      "tripId": "5cc1d10130dfa407e2e54e20",
+      "tripName": "Pleasant trek in outstanding Danau Toba Indonesia",
+      "id": 27
+    },
+    {
+      "car-rental": "full",
+      "accommodation": "suite",
+      "features": [
+        "all-inclusive"
+      ],
+      "adults": 1,
+      "children": "4",
+      "name": "Hisyam",
+      "contact": "0822673442",
+      "startDate": "2022-05-24T17:00:00.000Z",
+      "totalCost": "$2,400",
+      "tripId": "5cc1d10130dfa407e2e54e20",
+      "tripName": "Pleasant trek in outstanding Danau Toba Indonesia",
+      "id": 28
     }
   ]
 }

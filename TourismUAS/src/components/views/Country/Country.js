@@ -27,10 +27,9 @@ const Country = ({name, capital, region, subregion, currencies, population, trip
         <Row>
           <Col md={12} lg={4}>
             <List variant='light'>
-              <ListItem title={`<strong>Region:</strong> ${region} / ${subregion}`} icon='map' />
-              <ListItem title={`<strong>Capital:</strong> ${capital}`} icon='city' />
-              <ListItem title={`<strong>Population:</strong> ${population / 1000000} millions`} icon='users' />
-              <ListItem title={`<strong>Currency:</strong> ${currencies[0].name} (${currencies[0].code})`} icon='money-bill-wave' />
+              <ListItem title={`<strong>Provinsi</strong> ${region} / ${subregion}`} icon='map' />
+              <ListItem title={`<strong>Ibu Kota Provinsi:</strong> ${capital}`} icon='city' />
+              <ListItem title={`<strong>Populasi:</strong> ${population / 1000000} Juta`} icon='users' />
             </List>
           </Col>
         </Row>
