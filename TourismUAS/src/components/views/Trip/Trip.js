@@ -54,7 +54,7 @@ const Trip = ({ error, name, image, cost, days, description, country, intro }) =
       <Grid>
         <Row>
           <Col xs={12}>
-            <PageTitle text='Pilihan Perjalanan / Trip Options' />
+            <PageTitle text='Pilihan Perjalanan / Trip' />
             <OrderFormContainer tripCost={cost} />
           </Col>
         </Row>

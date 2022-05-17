@@ -30,7 +30,7 @@ const CountrySummary = ({alpha3Code, name, flag, trips, region, subregion, langu
                 <div className={styles.details}>
                   <List variant='light'>
                     <ListItem title={`<strong>Ibu Kota Provinsi:</strong> ${capital}`} icon='city' />
-                    <ListItem title={`<strong>Languages:</strong> ${languages[0].name}`} icon='globe' />
+                    <ListItem title={`<strong>Bahasa:</strong> ${languages[0].name}`} icon='globe' />
                   </List>
                 </div>
               </Col>

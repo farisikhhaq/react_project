@@ -21,10 +21,10 @@ class Header extends React.Component {
             </Col>
             <Col md={6}>
               <nav>
-                <NavLink to='/trips' activeClassName='active'>Wisata</NavLink>
-                <NavLink to='/countries' activeClassName='active'>Kota</NavLink>
-                <NavLink to='/regions' activeClassName='active'>Provinsi</NavLink>
-                <NavLink to='/info' activeClassName='active'>Kontak</NavLink>
+                <NavLink to='/wisata' activeClassName='active'>Wisata</NavLink>
+                <NavLink to='/kota' activeClassName='active'>Kota</NavLink>
+                <NavLink to='/provinsi' activeClassName='active'>Provinsi</NavLink>
+                <NavLink to='/kontak' activeClassName='active'>Kontak</NavLink>
               </nav>
             </Col>
             <Col md={3} lg={2}>

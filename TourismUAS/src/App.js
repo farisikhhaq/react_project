@@ -54,12 +54,12 @@ class App extends React.Component {
             className={styles.switchWrapper}
           >
             <Route exact path='/' component={Home} />
-            <Route exact path='/trips' component={TripsContainer} />
+            <Route exact path='/wisata' component={TripsContainer} />
             <Route exact path='/trip/:id' component={TripContainer} />
-            <Route exact path='/info' component={Info} />
-            <Route exact path='/countries' component={CountriesContainer} />
+            <Route exact path='/kontak' component={Info} />
+            <Route exact path='/kota' component={CountriesContainer} />
             <Route exact path='/country/:id' component={CountryContainer} />
-            <Route exact path='/regions' component={RegionsContainer} />
+            <Route exact path='/provinsi' component={RegionsContainer} />
           </AnimatedSwitch>
         </MainLayout>
       </BrowserRouter>
