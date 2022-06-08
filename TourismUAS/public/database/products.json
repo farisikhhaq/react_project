@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Kursi Rotan Maluku",
+    "description": "Kursi rotan yang terbuat dari kulit rotan asli yang telah dipernish",
+    "price": 40.0,
+    "image": "../assets/products/kursirotan.jpg",
+    "reviews": 3,
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "title": "Batik Riau",
+    "description": "Motif batik riau paling banyak adalah motif tumbuh-tumbuhan",
+    "price": 32.0,
+    "image": "../assets/products/batikriau.jpg",
+    "reviews": 20,
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "title": "Batik Solo",
+    "description": "corak batik Solo merupakan perpaduan dari bentuk-bentuk geometris",
+    "price": 49.0,
+    "image": "../assets/products/batikjawa.jpg",
+    "reviews": 25,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Tas Rotan Bali",
+    "description": "Tas Rotan Bali terbuat dari rotan terbaik ubud.",
+    "price": 28.9,
+    "image": "../assets/products/tasbali.jpg",
+    "reviews": 30,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "title": "Tas Noken Papua",
+    "description": "Noken dibuat dari bahan-bahan alam, dari serat pohon Yonggoli dan pohon Huisa.",
+    "price": 17.5,
+    "image": "../assets/products/nokenpapua.jpg",
+    "reviews": 100,
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "title": "Head Band Kalimantan",
+    "description": "Pelapis Kepala asal kalimantan dibuat dari tenunan kain.",
+    "price": 34.9,
+    "image": "../assets/products/bandkalimantan.jpg",
+    "reviews": 23,
+    "rating": 3
+  }
+]

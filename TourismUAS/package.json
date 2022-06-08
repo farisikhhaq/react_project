@@ -1,79 +1,51 @@
 {
-  "name": "react-toursim",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "npm-run-all -p server:*",
-    "server:api": "node server.js",
-    "server:dev": "webpack-dev-server --mode development --open --hot",
-    "clean": "rimraf dist",
-    "prebuild": "npm run clean",
-    "build": "webpack --mode production",
-    "lint": "eslint src/",
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage --colors"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "src/**/*.js": "eslint"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "name": "healthcare-related-website-19smabtahinoor",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "@babel/core": "^7.4.3",
-    "@babel/plugin-proposal-class-properties": "^7.4.0",
-    "@babel/preset-env": "^7.4.3",
-    "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.5",
-    "css-loader": "^2.1.1",
-    "html-webpack-plugin": "^3.2.0",
-    "json-server": "^0.16.1",
-    "mini-css-extract-plugin": "^0.6.0",
-    "node-sass": "^4.11.0",
-    "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-datepicker": "^3.0.0",
-    "react-dom": "^16.8.6",
-    "react-flexbox-grid": "^2.1.2",
-    "react-html-parser": "^2.0.2",
-    "react-redux": "^7.0.1",
-    "react-router-dom": "^5.0.0",
-    "react-router-transition": "^1.4.0",
-    "redux": "^4.0.1",
-    "rimraf": "^2.6.3",
-    "sass-loader": "^7.1.0",
-    "style-loader": "^0.23.1",
-    "styled-components": "^5.1.1",
-    "webpack": "^4.29.6",
-    "webpack-cli": "^3.3.0",
-    "webpack-merge": "^4.2.1"
+    "@craco/craco": "^6.3.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "autoprefixer": "^9.8.8",
+    "firebase": "^9.1.3",
+    "firebase-tools": "^9.20.0",
+    "postcss": "^7.0.39",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-rating": "^2.0.5",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "react-spinners": "^0.11.0",
+    "sweetalert": "^2.1.2",
+    "swiper": "6.7.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
+    "web-vitals": "^1.0.1"
   },
-  "devDependencies": {
-    "babel-eslint": "^10.0.1",
-    "babel-jest": "^24.8.0",
-    "enzyme": "^3.9.0",
-    "enzyme-adapter-react-16": "^1.12.1",
-    "eslint": "^5.16.0",
-    "eslint-plugin-react": "^7.12.4",
-    "husky": "^1.3.1",
-    "identity-obj-proxy": "^3.0.0",
-    "jest": "^24.8.0",
-    "jest-css-modules": "^2.0.0",
-    "jest-environment-jsdom-fourteen": "^0.1.0",
-    "jest-prop-type-error": "^1.1.0",
-    "jest-resolve": "^24.8.0",
-    "jest-watch-typeahead": "^0.3.1",
-    "lint-staged": "^8.1.5",
-    "npm-run-all": "^4.1.5",
-    "react-test-renderer": "^16.8.6",
-    "redux-devtools-extension": "^2.13.8",
-    "webpack-dev-server": "^3.3.1"
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

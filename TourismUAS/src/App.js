@@ -1,78 +1,43 @@
 import React from 'react';
-import { connect } from 'react-redux';
-import { BrowserRouter, Route } from 'react-router-dom';
-import { AnimatedSwitch } from 'react-router-transition';
-import PropTypes from 'prop-types';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import Footer from './components/Footer/Footer';
+import Navbar from './components/Navbar/Navbar';
+import AuthProvider from './contexts/AuthProvider';
+import OrderProvider from './contexts/OrderProvider';
+import PrivateRoute from './routes/PrivateRoute';
+import PublicRoute from './routes/PublicRoute';
+import ContactScreen from './screens/ContactScreen';
+import ErrorScreen from './screens/ErrorScreen';
+import HomeScreen from './screens/HomeScreen';
+import OrderScreen from './screens/OrderScreen';
+import ProductDetailScreen from './screens/ProductDetailScreen';
+import ProductsScreen from './screens/ProductsScreen';
+import ServicesDetailScreen from './screens/ServicesDetailScreen';
+import SignInScreen from './screens/SignInScreen';
+import SignUpScreen from './screens/SignUpScreen';
 
-import styles from './App.scss';
-
-import MainLayout from './components/layout/MainLayout/MainLayout';
-
-import Home from './components/views/Home/Home';
-import Info from './components/views/Info/Info';
-
-import TripsContainer from './components/views/Trips/TripsContainer';
-import TripContainer from './components/views/Trip/TripContainer';
-
-
-import CountriesContainer from './components/views/Countries/CountriesContainer';
-import CountryContainer from './components/views/Country/CountryContainer';
-
-import RegionsContainer from './components/views/Regions/RegionsContainer';
-
-
-import parseTrips from './utils/parseTrips';
-import { setMultipleStates } from './redux/globalRedux';
-
-class App extends React.Component {
-  static propTypes = {
-    trips: PropTypes.array,
-    setStates: PropTypes.func,
-  }
-
-  constructor(props) {
-    super(props);
-    // parse trips when App is first created
-    parseTrips(this.props.trips, this.props.setStates);
-  }
-
-  componentDidUpdate(prevProps) {
-    if (prevProps.trips != this.props.trips) {
-      // parse trips again if they changed
-      parseTrips(this.props.trips, this.props.setStates);
-    }
-  }
-
-  render() {
-    return (
-      <BrowserRouter>
-        <MainLayout>
-          <AnimatedSwitch
-            atEnter={{ opacity: 0, top: 200}}
-            atLeave={{ opacity: 0 }}
-            atActive={{ opacity: 1, top: 0  }}
-            className={styles.switchWrapper}
-          >
-            <Route exact path='/' component={Home} />
-            <Route exact path='/wisata' component={TripsContainer} />
-            <Route exact path='/trip/:id' component={TripContainer} />
-            <Route exact path='/kontak' component={Info} />
-            <Route exact path='/kota' component={CountriesContainer} />
-            <Route exact path='/country/:id' component={CountryContainer} />
-            <Route exact path='/provinsi' component={RegionsContainer} />
-          </AnimatedSwitch>
-        </MainLayout>
-      </BrowserRouter>
-    );
-  }
+const App = () => {
+  return (
+    <BrowserRouter>
+      <AuthProvider>
+        <OrderProvider>
+          <Navbar />
+          <Switch>
+            <Route exact path="/"><HomeScreen /></Route>
+            <Route exact path="/contact"><ContactScreen /></Route>
+            <PublicRoute path="/signup"><SignUpScreen /></PublicRoute>
+            <PublicRoute path="/signin"><SignInScreen /></PublicRoute>
+            <PrivateRoute exact path="/services/:title"><ServicesDetailScreen /></PrivateRoute>
+            <Route exact path="/products/"><ProductsScreen /></Route>
+            <PrivateRoute exact path="/products/:title"><ProductDetailScreen /></PrivateRoute>
+            <PrivateRoute exact path="/orders"><OrderScreen /></PrivateRoute>
+            <Route path="*"><ErrorScreen /></Route>
+          </Switch>
+          <Footer />
+        </OrderProvider>
+      </AuthProvider>
+    </BrowserRouter>
+  )
 }
 
-const mapStateToProps = state => ({
-  trips: state.trips,
-});
-
-const mapDispatchToProps = dispatch => ({
-  setStates: newState => dispatch(setMultipleStates(newState)),
-});
-
-export default connect(mapStateToProps, mapDispatchToProps)(App);
+export default App
