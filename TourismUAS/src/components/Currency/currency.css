@@ -1,0 +1,64 @@
+.fr-currency{
+    padding: 13px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.sec-currency{
+    padding: 13px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+
+.select-sec-currency{
+
+
+}
+
+.select-sec-currency {
+    position: relative;
+    width: 76px;
+    height: 40px;
+    background-color:#161a2b;
+    color: #fff;
+    border-radius: 8px;
+    border-color: #4030a7;
+  }
+  
+  .select-fr-currency {
+    position: relative;
+    width: 76px;
+    height: 40px;
+    background-color:#0372c6;
+    color: #fff;
+    border-radius: 8px;
+    border-color: #4030a7;
+  }
+  .option {
+    padding:0 30px 0 10px;
+    min-height:40px;
+    display:flex;
+    align-items:center;
+    background:#333;
+    border-top:#222 solid 1px;
+    position:absolute;
+    top:0;
+    width: 100%;
+    pointer-events:none;
+    order:2;
+    z-index:1;
+    transition:background .4s ease-in-out;
+    box-sizing:border-box;
+    overflow:hidden;
+    white-space:nowrap;
+    
+  }
+  
+  .option:hover {
+    background:#666;
+  }
+  
+  .select:focus .option {
+    position:relative;
+    pointer-events:all;
+  }
