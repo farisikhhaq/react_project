@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.forecast-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.info {
+    color: #808080;
+}
