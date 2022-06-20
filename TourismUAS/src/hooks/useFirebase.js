@@ -3,9 +3,11 @@ import { useEffect, useState } from 'react';
 import { useHistory } from "react-router-dom";
 import swal from 'sweetalert';
 import initializeAuthentication from '../config/firebase';
+import dbFirestore from '../config/firebase';
 
 //initialize firebase  authentication
 initializeAuthentication()
+// dbFirestore()
 
 const useFirebase = () => {
     const [user, setUser] = useState({});
