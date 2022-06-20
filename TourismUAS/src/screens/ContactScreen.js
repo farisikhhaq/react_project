@@ -1,7 +1,6 @@
 import React from 'react';
 import Bounce from 'react-reveal/Bounce';
-import Contact from '../components/Contact/ContactForm1';
-// import ContactForm from '../components/Contact/ContactForm';
+import Contact from '../components/Contact/ContactForm';
 
 const ContactScreen = () => {
     return (
