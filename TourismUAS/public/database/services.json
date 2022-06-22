@@ -12,36 +12,36 @@
   },
   {
     "id": 2,
-    "title": "Prescribing Tools",
-    "description": "Search our formulary list of preferred. Find a toursim policy bulletin, or search our preferred lists. Or find out more about e-prescribing.Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
+    "title": "Proffesional Services",
+    "description": "Our service will provide everything you want, just request and we will consider every thing in order to make the best experience for you!",
     "icon": "../assets/services/004-tools.png",
     "image": "../assets/services/image/service-2.jpg"
   },
   {
     "id": 3,
-    "title": "Specialty Covid Track",
-    "description": "Some patients require specialty for chronic or complex conditions. The network specialty pharmacy can dispense these drugs quickly and at a reasonable cost..Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
+    "title": "Postgrade Photo Spotter",
+    "description": "Our photo spotter is a proffesional, they will produce insta post grade photos for you to share in social media",
     "icon": "../assets/services/006-medical-care.png",
     "image": "../assets/services/image/service-3.jpg"
   },
   {
     "id": 4,
-    "title": "Claims Tourism",
-    "description": "Search our formulary list of preferred. Find a policy bulletin, or search our preferred drug lists. Or find out more about e-prescribing.Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
+    "title": "Privacy is Important",
+    "description": "Your privacy is our priority, you dont have to worry about losing stuff because they are in a very safe hands",
     "icon": "../assets/services/002-medicine.png",
     "image": "../assets/services/image/service-4.jpg"
   },
   {
     "id": 5,
-    "title": "Log in to our provider portal",
+    "title": "Integrated System",
     "description": "The provider portal has information and tools to complete real-time transactions along with administrative and financial tools. You can: ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi!",
     "icon": "../assets/services/001-portal.png",
     "image": "../assets/services/image/service-5.jpg"
   },
   {
     "id": 6,
-    "title": "Our URAC Tourism accreditations",
-    "description": "URAC is an independent, non-profit health care accrediting organization dedicated to promoting care quality through accreditation, education, and measurement.Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga quisquam ducimus quia! Et excepturi ut voluptatem. Fugit, perferendis expedita dolorum non veritatis repudiandae minima recusandae maxime corrupti a sunt dicta accusamus exercitationem molestias totam, et voluptatem laboriosam ducimus quis dignissimos, accusantium in. Corrupti, aperiam! Hic facilis inventore quaerat consectetur praesentium eius, itaque, tempora laborum, perferendis eos enim qui dolore quisquam libero porro vero quasi? Quam quia laborum earum quisquam cum officiis, dicta voluptate perspiciatis dolores molestiae eum maxime aliquid iste sunt hic, facilis recusandae ducimus. Neque similique, vero ea possimus eos totam aliquid repudiandae eum enim quasi harum, corporis sequi! ",
+    "title": "Extra Protection",
+    "description": "We will take care of your stuff with extra protection making sure that the stuff that we gave back is just the same as when you give to us",
     "icon": "../assets/services/007-injection.png",
     "image": "../assets/services/image/service-6.jpg"
   }
